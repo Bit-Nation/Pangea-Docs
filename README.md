@@ -1,2 +1,6 @@
 # Pangea-Docs
-Guides, Tutorials, Wiki etc
+
+Whitepaper
+Contributor Guides
+User Guides 
+Wiki
