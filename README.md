@@ -6,4 +6,4 @@ Contributor Guides
 
 User Guides 
 
-Wiki
+[Wiki](https://github.com/Bit-Nation/Pangea-Docs/wiki)
