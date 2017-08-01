@@ -3,6 +3,7 @@
 **Community Resources**
 
 [Community wiki](https://github.com/Bit-Nation/Pangea-Docs/wiki)
+
 [Wikipedia Page](https://www.wikiwand.com/en/Bitnation)
 
 **Development Resources**
