@@ -2,7 +2,8 @@
 
 **Community Resources**
 
-[Wiki](https://github.com/Bit-Nation/Pangea-Docs/wiki)
+[Community wiki](https://github.com/Bit-Nation/Pangea-Docs/wiki)
+[Wikipedia Page](https://www.wikiwand.com/en/Bitnation)
 
 **Development Resources**
 
@@ -14,4 +15,3 @@
 
 [Panthalassa Swagger Documentation](https://github.com/Bit-Nation/BITNATION-Panthalassa/blob/master/api/panthalassa.yaml)
 
-[Wiki](https://github.com/Bit-Nation/Pangea-Docs/wiki)
