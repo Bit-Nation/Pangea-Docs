@@ -15,6 +15,7 @@ To get to know us, the best place to start is through:
 If you want to familiarise yourself with Bitnation, here are some key documents to read:
 
 
+
 **BITNATION Overview and Philosophy:**
 
 
@@ -29,12 +30,14 @@ BITNATION [Foundational Document](https://docs.google.com/document/d/16HDB9AABa5
 BITNATION [Pre-Foundational Document](https://blog.bitnation.co/what-is-bitnation-the-googlement/)2014
 
 
+
 **BITNATION History:** 
 
 
 BITNATION [Yearly Summary](https://steemit.com/introduce-yourself/@bitnation/bitnation-yearly-summary-the-year-of-pangea-by-tarkowski-tempelhof) 2015-2016
 
 BITNATION [Yearly Summary](https://medium.com/@susannetarkowskitempelhof/bitnation-year-1-summary-6a1c40b4ee5a) 2014-2015
+
 
 
 **MISC:**
@@ -45,6 +48,7 @@ BITNATION [Yearly Summary](https://medium.com/@susannetarkowskitempelhof/bitnati
 [Wikipedia Page](https://www.wikiwand.com/en/Bitnation)
 
 [OPSEC Guidelines](https://docs.google.com/document/d/1E9uVmuW9_zhoStrcvkuK-3kg30ec7Qgj3qG4aK7IAic/edit)
+
 
 
 **Media Channels:**
@@ -59,7 +63,9 @@ BITNATION [Yearly Summary](https://medium.com/@susannetarkowskitempelhof/bitnati
 [Blog](https://steemit.com/@bitnation)
 
 
+
 **Community Resources**
+
 
 If you want to contribute to the growth of the Bitnation community and our mission - this is the place for you.
 
@@ -76,6 +82,7 @@ Help grow our community through outreach and media engagement
 Start Your Own Nation
 
 Community Code of Conduct
+
 
 
 **Development Resources**
