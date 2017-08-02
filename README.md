@@ -21,22 +21,22 @@ If you want to familiarise yourself with Bitnation, here are some key documents 
 
 Pangea [Whitepaper](https://docs.google.com/document/d/1lnbUKaCzy1F3yrI73bMoIOAqK9h5mwtwuA_1z9G2Cqg/edit) 2017
 
-BITNATION DBVN [Constitution](https://github.com/Bit-Nation/BITNATION-Constitution)2016
+Liquid Holocracy DBVN [Constitution](https://github.com/Bit-Nation/BITNATION-Constitution)2016
 
 BITNATION [Whitepaper](https://docs.google.com/document/d/1r_VqWrKQw07E06XAtMv_cZnFyBZma4PFTBJpM5GuzbA/edit) 2014
 
-BITNATION [Foundational Document](https://docs.google.com/document/d/16HDB9AABa5rTOVFJj_8VLdOxgMguovLLAMviaTkZ1q4/edit) 2014
+[Foundational Document](https://docs.google.com/document/d/16HDB9AABa5rTOVFJj_8VLdOxgMguovLLAMviaTkZ1q4/edit) 2014
 
-BITNATION [Pre-Foundational Document](https://blog.bitnation.co/what-is-bitnation-the-googlement/)2014
+[Pre-Foundational Document](https://blog.bitnation.co/what-is-bitnation-the-googlement/)2014
 
 
 
 **BITNATION History:** 
 
 
-BITNATION [Yearly Summary](https://steemit.com/introduce-yourself/@bitnation/bitnation-yearly-summary-the-year-of-pangea-by-tarkowski-tempelhof) 2015-2016
+[Yearly Summary](https://steemit.com/introduce-yourself/@bitnation/bitnation-yearly-summary-the-year-of-pangea-by-tarkowski-tempelhof) 2015-2016
 
-BITNATION [Yearly Summary](https://medium.com/@susannetarkowskitempelhof/bitnation-year-1-summary-6a1c40b4ee5a) 2014-2015
+[Yearly Summary](https://medium.com/@susannetarkowskitempelhof/bitnation-year-1-summary-6a1c40b4ee5a) 2014-2015
 
 
 
