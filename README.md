@@ -175,6 +175,8 @@ There are many ways to help grow the movement through outreach and communication
 
 ### *_Pangea API and Documentation_*
 
+### *_UI/UX Resources_*
+
 ### *_Software Testing, Bug Bounties, and Bug Reports_*
 
 ### *_Code Commit Guidelines and Code of Conduct_*
