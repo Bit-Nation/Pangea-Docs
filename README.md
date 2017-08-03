@@ -32,7 +32,7 @@ BITNATION [Whitepaper](https://docs.google.com/document/d/1r_VqWrKQw07E06XAtMv_c
 
 
 
-**BITNATION History:** 
+### **_BITNATION and Pangea History:_** 
 
 
 [Yearly Summary](https://steemit.com/introduce-yourself/@bitnation/bitnation-yearly-summary-the-year-of-pangea-by-tarkowski-tempelhof) 2015-2016
@@ -41,18 +41,7 @@ BITNATION [Whitepaper](https://docs.google.com/document/d/1r_VqWrKQw07E06XAtMv_c
 
 
 
-**MISC:**
-
-
-[Community wiki](https://github.com/Bit-Nation/Pangea-Docs/wiki)
-
-[Wikipedia Page](https://www.wikiwand.com/en/Bitnation)
-
-[OPSEC Guidelines](https://docs.google.com/document/d/1E9uVmuW9_zhoStrcvkuK-3kg30ec7Qgj3qG4aK7IAic/edit)
-
-
-
-**Media Channels:**
+### **_Media Channels:_**
 
 
 [Facebook Page](https://www.facebook.com/Bitnation-Pangea-337620226422880/)
@@ -62,6 +51,19 @@ BITNATION [Whitepaper](https://docs.google.com/document/d/1r_VqWrKQw07E06XAtMv_c
 [Twitter](https://twitter.com/MyBitNation)
 
 [Blog](https://steemit.com/@bitnation)
+
+
+
+### **_MISC:_**
+
+
+
+[Community wiki](https://github.com/Bit-Nation/Pangea-Docs/wiki)
+
+[Wikipedia Page](https://www.wikiwand.com/en/Bitnation)
+
+[OPSEC Guidelines](https://docs.google.com/document/d/1E9uVmuW9_zhoStrcvkuK-3kg30ec7Qgj3qG4aK7IAic/edit)
+
 
 
 
@@ -79,15 +81,15 @@ If you want to contribute to the growth of the Bitnation community and our missi
 The best place to get to know the community is to join our [Slack](https://bitn.slack.com) channel and start contributing.
 It's helpful to write a short introduction about yourself and what you're interested in doing. Keep in mind that the Slack chat is *not* encrypted, and it's open for anyone to join, hence don't share anything you think could compromise your security, and use a pseudonym if you want to remain anoymous. Popular channels you can join includes the #_bitnation-dev channel, the #_bitnation-marketing channel, #townhall, #intros, and #watercooler
 
-*Join the Ambassador and Embassy Networks* 
+### *_Join the Ambassador and Embassy Networks_* 
 
-*Start Your Own Nation*
+### *_Start Your Own Nation_*
 
-*Help with Documentation, Translation and Educational Resources* 
+### *_Help with Documentation, Translation and Educational Resources_* 
 
-*Help grow our community through outreach and media engagement*
+### *_Help grow our community through outreach and media engagement_*
 
-*Community Code of Conduct*
+### *_Community Code of Conduct_*
 
 
 ----------
@@ -95,11 +97,25 @@ It's helpful to write a short introduction about yourself and what you're intere
 
 ## **Development Resources**
 
+### *_Getting Started_*
+
+### *_Languages and Frameworks_*
+
+### *_Whitepaper and Roadmap_*
+
 [Whitepaper](https://docs.google.com/document/d/1lnbUKaCzy1F3yrI73bMoIOAqK9h5mwtwuA_1z9G2Cqg/edit)
 
 [High-Level Development Roadmap and Task List](https://trello.com/b/rb43zuUn/bitnation-dev)
 
+### *_Key-Repositories_*
+
+### *_Panthalassa API and Documentation_*
+
 [Panthalassa API](https://github.com/Bit-Nation/BITNATION-Panthalassa/blob/master/api/api.go)
 
 [Panthalassa Swagger Documentation](https://github.com/Bit-Nation/BITNATION-Panthalassa/blob/master/api/panthalassa.yaml)
+
+### *_Pangea API and Documentation_*
+
+### *_Code Commit Guidelines and Code of Conduct_*
 
