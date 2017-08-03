@@ -20,37 +20,37 @@ If you want to familiarise yourself with Bitnation, here are some key documents 
 ## **BITNATION Overview and Philosophy:**
 
 
-Pangea [Whitepaper](https://docs.google.com/document/d/1lnbUKaCzy1F3yrI73bMoIOAqK9h5mwtwuA_1z9G2Cqg/edit) 2017
+* Pangea [Whitepaper](https://docs.google.com/document/d/1lnbUKaCzy1F3yrI73bMoIOAqK9h5mwtwuA_1z9G2Cqg/edit) 2017
 
-Liquid Holocracy DBVN [Constitution](https://github.com/Bit-Nation/BITNATION-Constitution)2016
+* Liquid Holocracy DBVN [Constitution](https://github.com/Bit-Nation/BITNATION-Constitution)2016
 
-BITNATION [Whitepaper](https://docs.google.com/document/d/1r_VqWrKQw07E06XAtMv_cZnFyBZma4PFTBJpM5GuzbA/edit) 2014
+* BITNATION [Whitepaper](https://docs.google.com/document/d/1r_VqWrKQw07E06XAtMv_cZnFyBZma4PFTBJpM5GuzbA/edit) 2014
 
-[Foundational Document](https://docs.google.com/document/d/16HDB9AABa5rTOVFJj_8VLdOxgMguovLLAMviaTkZ1q4/edit) 2014
+* [Foundational Document](https://docs.google.com/document/d/16HDB9AABa5rTOVFJj_8VLdOxgMguovLLAMviaTkZ1q4/edit) 2014
 
-[Pre-Foundational Document](https://blog.bitnation.co/what-is-bitnation-the-googlement/)2014
+* [Pre-Foundational Document](https://blog.bitnation.co/what-is-bitnation-the-googlement/)2014
 
 
 
 ### **_BITNATION and Pangea History:_** 
 
 
-[Yearly Summary](https://steemit.com/introduce-yourself/@bitnation/bitnation-yearly-summary-the-year-of-pangea-by-tarkowski-tempelhof) 2015-2016
+* [Yearly Summary](https://steemit.com/introduce-yourself/@bitnation/bitnation-yearly-summary-the-year-of-pangea-by-tarkowski-tempelhof) 2015-2016
 
-[Yearly Summary](https://medium.com/@susannetarkowskitempelhof/bitnation-year-1-summary-6a1c40b4ee5a) 2014-2015
+* [Yearly Summary](https://medium.com/@susannetarkowskitempelhof/bitnation-year-1-summary-6a1c40b4ee5a) 2014-2015
 
 
 
 ### **_Media Channels:_**
 
 
-[Facebook Page](https://www.facebook.com/Bitnation-Pangea-337620226422880/)
+* [Facebook Page](https://www.facebook.com/Bitnation-Pangea-337620226422880/)
 
-[Facebook Group](https://www.facebook.com/groups/704796139595313/)
+* [Facebook Group](https://www.facebook.com/groups/704796139595313/)
 
-[Twitter](https://twitter.com/MyBitNation)
+* [Twitter](https://twitter.com/MyBitNation)
 
-[Blog](https://steemit.com/@bitnation)
+* [Blog](https://steemit.com/@bitnation)
 
 
 
@@ -58,11 +58,11 @@ BITNATION [Whitepaper](https://docs.google.com/document/d/1r_VqWrKQw07E06XAtMv_c
 
 
 
-[Community wiki](https://github.com/Bit-Nation/Pangea-Docs/wiki)
+* [Community wiki](https://github.com/Bit-Nation/Pangea-Docs/wiki)
 
-[Wikipedia Page](https://www.wikiwand.com/en/Bitnation)
+* [Wikipedia Page](https://www.wikiwand.com/en/Bitnation)
 
-Community [OPSEC Guidelines](https://docs.google.com/document/d/1E9uVmuW9_zhoStrcvkuK-3kg30ec7Qgj3qG4aK7IAic/edit)
+* [Community OPSEC Guidelines](https://docs.google.com/document/d/1E9uVmuW9_zhoStrcvkuK-3kg30ec7Qgj3qG4aK7IAic/edit)
 
 
 
@@ -151,17 +151,17 @@ For now the Project page is mostly for discussing ideas, but after the ICO we'll
 
 ### *_Whitepaper and Roadmap_*
 
-[Whitepaper](https://docs.google.com/document/d/1lnbUKaCzy1F3yrI73bMoIOAqK9h5mwtwuA_1z9G2Cqg/edit)
+* [Whitepaper](https://docs.google.com/document/d/1lnbUKaCzy1F3yrI73bMoIOAqK9h5mwtwuA_1z9G2Cqg/edit)
 
-[High-Level Development Roadmap and Task List](https://trello.com/b/rb43zuUn/bitnation-dev)
+* [High-Level Development Roadmap and Task List](https://trello.com/b/rb43zuUn/bitnation-dev)
 
 ### *_Key-Repositories_*
 
 ### *_Panthalassa API and Documentation_*
 
-[Panthalassa REST JSON API](https://github.com/Bit-Nation/BITNATION-Panthalassa/blob/master/api/api.go)
+* [Panthalassa REST JSON API](https://github.com/Bit-Nation/BITNATION-Panthalassa/blob/master/api/api.go)
 
-[Panthalassa Swagger Documentation](https://github.com/Bit-Nation/BITNATION-Panthalassa/blob/master/api/panthalassa.yaml)
+* [Panthalassa Swagger Documentation](https://github.com/Bit-Nation/BITNATION-Panthalassa/blob/master/api/panthalassa.yaml)
 
 ### *_Pangea API and Documentation_*
 
