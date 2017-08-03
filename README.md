@@ -16,7 +16,8 @@ If you want to familiarise yourself with Bitnation, here are some key documents 
 
 
 
-**BITNATION Overview and Philosophy:**
+
+## **BITNATION Overview and Philosophy:**
 
 
 Pangea [Whitepaper](https://docs.google.com/document/d/1lnbUKaCzy1F3yrI73bMoIOAqK9h5mwtwuA_1z9G2Cqg/edit) 2017
@@ -68,30 +69,31 @@ BITNATION [Whitepaper](https://docs.google.com/document/d/1r_VqWrKQw07E06XAtMv_c
 
 
 
-**Community Resources**
+
+
+## **Community Resources**
 
 
 If you want to contribute to the growth of the Bitnation community and our mission - this is the place for you.
 
-Slack channels: 
+The best place to get to know the community is to join our [Slack](https://bitn.slack.com) channel and start contributing.
+It's helpful to write a short introduction about yourself and what you're interested in doing. Keep in mind that the Slack chat is *not* encrypted, and it's open for anyone to join, hence don't share anything you think could compromise your security, and use a pseudonym if you want to remain anoymous. Popular channels you can join includes the #_bitnation-dev channel, the #_bitnation-marketing channel, #townhall, #intros, and #watercooler
 
-Introduce yourself, look at Trello, ask in the channels how you can help.
+*Join the Ambassador and Embassy Networks* 
 
-Join the Ambassador and Embassy Networks 
+*Start Your Own Nation*
 
-Help with Documentation, Translation and Educational Resources 
+*Help with Documentation, Translation and Educational Resources* 
 
-Help grow our community through outreach and media engagement
+*Help grow our community through outreach and media engagement*
 
-Start Your Own Nation
-
-Community Code of Conduct
+*Community Code of Conduct*
 
 
 ----------
 
 
-**Development Resources**
+## **Development Resources**
 
 [Whitepaper](https://docs.google.com/document/d/1lnbUKaCzy1F3yrI73bMoIOAqK9h5mwtwuA_1z9G2Cqg/edit)
 
