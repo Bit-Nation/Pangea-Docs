@@ -81,6 +81,7 @@ The best place to get to know the community is to join our [Slack](https://bitn.
 It's helpful to write a short introduction about yourself and what you're interested in doing. Keep in mind that the Slack chat is *not* encrypted, and it's open for anyone to join, hence don't share anything you think could compromise your security, and use a pseudonym if you want to remain anoymous. Popular channels you can join includes the #_bitnation-dev channel, the #_bitnation-marketing channel, #townhall, #intros, and #watercooler
 
 
+
 ### *_Join the Ambassador and Embassy Networks_* 
 
 
@@ -98,7 +99,9 @@ Embassies and Consulates are where share their space, whether it’s an office, 
 Bitnation has over 100 embassies, consulates worldwide. You can find out more about the [Ambassador Network](https://bitnation.co/ambassador-network/) or [Register as an Embassy](https://bitnation.co/embassy-consulate-directory/) on our website. **All these functions will soon be moved from the website to the Pangea software.**
 
 
+
 ### *_Start Your Own Nation_*
+
 
 
 The Pangea software is setup for you to create your own Decentralized Borderless Voluntary Nation (DBVN). However, until Pangea v.03 is out you can do it yourself through using our DBVN code. Here are a few resources to help you setup your own Nation:
@@ -110,7 +113,13 @@ The Pangea software is setup for you to create your own Decentralized Borderless
 
 
 
-### *_Submit a Project Idea_*
+### *_Submit a Local or Global Governance Project Idea_*
+
+
+
+You can [submit an idea](https://bitnation.consider.it/?tab=Show%20all) for a local or global governance project on our website, and vote and discuss pros and cons of others people's proposal. Keep in mind that you're likely to get more feedback if your proposal have clear and specific goals, timelines, expected outcomes and measurable deliverables.
+
+For now the Project page is mostly for discussing ideas, but after the ICO we'll be able to fund some of them through Smart Contracts. 
 
 
 
@@ -118,12 +127,18 @@ The Pangea software is setup for you to create your own Decentralized Borderless
 
 
 
-### *_Help Grow our Community through Outreach and engagement_*
+### *_Help Grow our Community through Outreach and Engagement_*
 
 
 
 ### *_Community Code of Conduct_*
 
+
+**Clarity above all.** Understanding the challenges of communicating across different timezones, culture and personalities both during written and verbal communications. It’s advisable to avoid sweeping statements in favor of clearly articulated sentences with well defined purposes. 
+
+**Refrain from jumping to conclusions** A fundamental problem in many conversations is that we overestimate others capacity to understand our written and verbal communications, and we overestimate our own capacity to understand what they’re trying to communicate. When analyzing what the other person is trying to communicate, take their context into account, including things like timezone, native language, and personal circumstances. 
+ 
+**Respectfulness.** We have come together to change the status quo through creating kickass software, to that end being disrespectful can divert the conversation from our set purpose into irrelevant areas.Personal slights and attacks does not foster a good collaborative space, it s wise to avoid them. When we are emotionally affected by communications, attempt to take a step backwards and swallow the chill pill. Emotional or aggressive responses can disrupt healthy communications and waste valuable time and energy better deployed to achieve the goals of the discussion. 
 
 ----------
 
