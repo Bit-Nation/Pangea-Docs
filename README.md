@@ -112,9 +112,7 @@ The Pangea software is setup for you to create your own Decentralized Borderless
 * Some [Advice](https://steemit.com/blockchain/@bitnation/create-your-own-nation-by-tarkowski-tempelhof)... 
 
 
-
 ### *_Submit a Local or Global Governance Project Idea_*
-
 
 
 You can [submit an idea](https://bitnation.consider.it/?tab=Show%20all) for a local or global governance project on our website, and vote and discuss pros and cons of others people's proposal. Keep in mind that you're likely to get more feedback if your proposal have clear and specific goals, timelines, expected outcomes and measurable deliverables.
@@ -122,13 +120,25 @@ You can [submit an idea](https://bitnation.consider.it/?tab=Show%20all) for a lo
 For now the Project page is mostly for discussing ideas, but after the ICO we'll be able to fund some of them through Smart Contracts. 
 
 
-
 ### *_Help with Documentation, Translation and Educational Resources_* 
 
+
+Good documentation is key for an Open Source Software movement. 
+
+* Help documenting best practices, key events, processes etc.
+* Translate materials like Whitepapers, community updates, articles, videos. We're setting up [this resource](https://crowdin.com/project/bitnation-documentation) to help collaborate on translations.
+* Create manuals, videos and blog posts to help explain how to be part of the community and how to use the software. 
 
 
 ### *_Help Grow our Community through Outreach and Engagement_*
 
+
+There are many ways to help grow the movement through outreach and communication. Here's a list of a few activites that are really impactful.
+
+* Organize Online Google Hangouts and Local Meetups
+* Produce content, like YouTube videos, software demo videos, graphic materials, blog post etc
+* Help new commers on Slack to understand BITNATION and find their way around Slack channels and other resources (like this one here) 
+* Help people outside of our community to understand more about BITNATION, the Pangea software, cryptocurrencies, decentralized technologies, the importance of privacy and security and everything else beautiful in the world :) 
 
 
 ### *_Community Code of Conduct_*
