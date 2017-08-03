@@ -87,7 +87,7 @@ It's helpful to write a short introduction about yourself and what you're intere
 
 ### *_Help with Documentation, Translation and Educational Resources_* 
 
-### *_Help grow our community through outreach and media engagement_*
+### *_Help Grow our Community through Outreach and engagement_*
 
 ### *_Community Code of Conduct_*
 
@@ -118,4 +118,6 @@ It's helpful to write a short introduction about yourself and what you're intere
 ### *_Pangea API and Documentation_*
 
 ### *_Code Commit Guidelines and Code of Conduct_*
+
+### *_Software Testing, Bug Bounties, and Bug Reports_*
 
