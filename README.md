@@ -83,11 +83,23 @@ It's helpful to write a short introduction about yourself and what you're intere
 
 ### *_Join the Ambassador and Embassy Networks_* 
 
+
+
 ### *_Start Your Own Nation_*
+
+
+
+### *_Submit a Project Idea_*
+
+
 
 ### *_Help with Documentation, Translation and Educational Resources_* 
 
+
+
 ### *_Help Grow our Community through Outreach and engagement_*
+
+
 
 ### *_Community Code of Conduct_*
 
@@ -111,7 +123,7 @@ It's helpful to write a short introduction about yourself and what you're intere
 
 ### *_Panthalassa API and Documentation_*
 
-[Panthalassa API](https://github.com/Bit-Nation/BITNATION-Panthalassa/blob/master/api/api.go)
+[Panthalassa REST JSON API](https://github.com/Bit-Nation/BITNATION-Panthalassa/blob/master/api/api.go)
 
 [Panthalassa Swagger Documentation](https://github.com/Bit-Nation/BITNATION-Panthalassa/blob/master/api/panthalassa.yaml)
 
