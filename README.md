@@ -158,15 +158,24 @@ There are many ways to help grow the movement through outreach and communication
 
 ### *_Getting Started_*
 
+The best way to get involved in the development process is probably to join our [slack](https://bitn.slack.com) after reading the following documentation.
+
 ### *_Languages and Frameworks_*
+
+ -  [Panthalassa](https://github.com/Bit-Nation/BITNATION-Panthalassa), our backend is made in Golang.
+ -  [Pangea](https://github.com/Bit-Nation/BITNATION-Pangea) is our frontend under heavy redevelopment, the new version will be made with React Native.
+ -  The [entity framework](https://github.com/Bit-Nation/BITNATION-Framework) is made in Solidity.
+ -  The [registry](https://github.com/Bit-Nation/BITNATION-Registry) will be merged in the framework, it is in solidity too.
 
 ### *_Whitepaper and Roadmap_*
 
-* [Whitepaper](https://docs.google.com/document/d/1lnbUKaCzy1F3yrI73bMoIOAqK9h5mwtwuA_1z9G2Cqg/edit)
+* [Whitepaper](https://docs.google.com/document/d/1lnbUKaCzy1F3yrI73bMoIOAqK9h5mwtwuA_1z9G2Cqg/edit).
 
-* [High-Level Development Roadmap and Task List](https://trello.com/b/rb43zuUn/bitnation-dev)
+* [High-Level Development Roadmap and Task List](https://trello.com/b/rb43zuUn/bitnation-dev).
 
 ### *_Key-Repositories_*
+
+We are pinning relevant repositories on our [profile](https://github.com/Bit-Nation).
 
 ### *_Panthalassa API and Documentation_*
 
@@ -176,10 +185,31 @@ There are many ways to help grow the movement through outreach and communication
 
 ### *_Pangea API and Documentation_*
 
+Since Pangea is under heavy work we are not able to provide a documentation for that part at the moment, keep watching the [repo](https://github.com/Bit-Nation/BITNATION-Pangea)!
+
 ### *_UI/UX Resources_*
+
+Most wireframes for the UI are discussed on Slack and uploaded to [Trello](https://trello.com/c/3lR4me7e/199-pangea-wireframes).
 
 ### *_Software Testing, Bug Bounties, and Bug Reports_*
 
+All the different repositories are shipping with unit tests compliant to language or framework standard.
+
+ -  [Panthalassa](https://github.com/Bit-Nation/BITNATION-Panthalassa) support the golang testing framework, use `go test -v ./...` in the cloned project (after downloading dependencies).
+ -  [Pangea](https://github.com/Bit-Nation/BITNATION-Pangea) can be tested via `npm` thanks to `npm run test` (please install the dependencies with `npm install` first).
+ -  The [entity framework](https://github.com/Bit-Nation/BITNATION-Framework) uses truffle, everything is bundled via `npm` after installing dependencies via `npm install` just do `npm run test`.
+ -  The informations concerning the registry are detailed in its [readme](https://github.com/Bit-Nation/BITNATION-Registry/blob/master/README.md).
+
 ### *_Code Commit Guidelines and Code of Conduct_*
 
+ -  Some repositories includes issue or pull request templates, use them whenever possible.
+ -  Make your commit messages clear, and try to follow the same pattern than the one used in the target repo.
+ -  Please avoid duplicating any issue or pull request, **any duplicate will be closed**.
+ -  Split your different changes in a clear way via commits, it will make the reviewer's task easier.
+ -  Only one major change should be submitted per pull requests, help us review your code faster!
+ -  Last but not least: be respectfull, no abuses will be ever tolerated and could result to the closing of your issue/pull request without further notice.
 
+
+
+
+> Made with :heart: at BITNATION.
