@@ -189,11 +189,12 @@ Since Pangea is under heavy work we are not able to provide a documentation for 
 
 ### *_UI/UX Resources_*
 
-Most wireframes for the UI are discussed on Slack and uploaded to [Trello](https://trello.com/c/3lR4me7e/199-pangea-wireframes).
+ -  Most wireframes for the UI are discussed on Slack and uploaded to [Trello](https://trello.com/c/3lR4me7e/199-pangea-wireframes).
+ -  Please have a look at our [branding repo](https://github.com/Bit-Nation/Bitnation-Branding-Guidelines) where you will find some ressources.
 
 ### *_Software Testing, Bug Bounties, and Bug Reports_*
 
-All the different repositories are shipping with unit tests compliant to language or framework standard.
+We are trying to maximize our code testing coverage, thus all the different repositories are shipping with unit tests compliant to the language or framework standard.
 
  -  [Panthalassa](https://github.com/Bit-Nation/BITNATION-Panthalassa) support the golang testing framework, use `go test -v ./...` in the cloned project (after downloading dependencies).
  -  [Pangea](https://github.com/Bit-Nation/BITNATION-Pangea) can be tested via `npm` thanks to `npm run test` (please install the dependencies with `npm install` first).
@@ -207,7 +208,12 @@ All the different repositories are shipping with unit tests compliant to languag
  -  Please avoid duplicating any issue or pull request, **any duplicate will be closed**.
  -  Split your different changes in a clear way via commits, it will make the reviewer's task easier.
  -  Only one major change should be submitted per pull requests, help us review your code faster!
- -  Last but not least: be respectfull, no abuses will be ever tolerated and could result to the closing of your issue/pull request without further notice.
+ -  Last but not least: be respectfull, no abuses will be ever tolerated and could result to the close of your issue/pull request without further notice.
+
+### *_Release model_*
+
+ -  Following the [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development) methodology we will be using sprint releases whenever possible.
+ -  Before releasing we are making sure all unit tests are passing.
 
 
 
