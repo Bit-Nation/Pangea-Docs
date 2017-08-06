@@ -156,7 +156,7 @@ We are trying to maximize our code testing coverage, thus all the different repo
 
 ### Release model
 
- -  Following the [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development) methodology we will be using sprint releases whenever possible.
+ -  Following the [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)) methodology we will be using sprint releases whenever possible.
  -  Before releasing we are making sure all unit tests are passing.
 
 > Made with :heart: at BITNATION.
