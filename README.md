@@ -155,5 +155,12 @@ We are trying to maximize our code testing coverage, thus all the different repo
  -  Only one major change should be submitted per pull requests, help us review your code faster!
  -  Last but not least: be respectfull, no abuses will be ever tolerated and could result to the close of your issue/pull request without further notice.
 
+ ###Additional Learning Resources:
+ 
+ - [Ethereum Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper)
+ - [IPFS Whitepaper](https://github.com/ipfs/ipfs/blob/master/papers/ipfs-cap2pfs/ipfs-p2p-file-system.pdf)
+ - Learn Solidity
+ - Learn Golang 
+ - Learn React
 
 > Made with :heart: at BITNATION.
