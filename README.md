@@ -131,6 +131,7 @@ We are pinning relevant repositories on our [profile](https://github.com/Bit-Nat
 
  -  UI/UX matters are discussed on Slack and uploaded to Trello.
  -  Please have a look at our [branding guidelines repo](https://github.com/Bit-Nation/Bitnation-Branding-Guidelines) where you will find resources like branding and UI source files.
+ -  Our [Font](https://github.com/Bit-Nation/Bitnation-Branding-Guidelines/blob/master/Logo%20And%20Branding%20Files/Font-Guide.md) Guidelines
  
  ### Release Model
 
