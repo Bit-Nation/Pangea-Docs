@@ -133,8 +133,13 @@ Since Pangea is under heavy work we are not able to provide a documentation for 
 
 ### UI/UX Resources
 
- -  Most wireframes for the UI are discussed on Slack and uploaded to [Trello](https://trello.com/c/3lR4me7e/199-pangea-wireframes).
- -  Please have a look at our [branding repo](https://github.com/Bit-Nation/Bitnation-Branding-Guidelines) where you will find some ressources.
+ -  UI/UX matters are discussed on Slack and uploaded to Trello.
+ -  Please have a look at our [branding guidelines repo](https://github.com/Bit-Nation/Bitnation-Branding-Guidelines) where you will find resources like branding and UI source files.
+ 
+ ### Release model
+
+ -  Following the [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)) methodology we will be using sprint releases whenever possible.
+ -  Before releasing we are making sure all unit tests are passing.
 
 ### Software Testing, Bug Bounties, and Bug Reports
 
@@ -154,9 +159,5 @@ We are trying to maximize our code testing coverage, thus all the different repo
  -  Only one major change should be submitted per pull requests, help us review your code faster!
  -  Last but not least: be respectfull, no abuses will be ever tolerated and could result to the close of your issue/pull request without further notice.
 
-### Release model
-
- -  Following the [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)) methodology we will be using sprint releases whenever possible.
- -  Before releasing we are making sure all unit tests are passing.
 
 > Made with :heart: at BITNATION.
