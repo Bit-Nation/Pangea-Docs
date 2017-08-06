@@ -132,7 +132,7 @@ We are pinning relevant repositories on our [profile](https://github.com/Bit-Nat
  -  UI/UX matters are discussed on Slack and uploaded to Trello.
  -  Please have a look at our [branding guidelines repo](https://github.com/Bit-Nation/Bitnation-Branding-Guidelines) where you will find resources like branding and UI source files.
  
- ### Release model
+ ### Release Model
 
  -  Following the [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)) methodology we will be using sprint releases whenever possible.
  -  Before releasing we are making sure all unit tests are passing.
@@ -159,8 +159,9 @@ We are trying to maximize our code testing coverage, thus all the different repo
  
  - [Ethereum Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper)
  - [IPFS Whitepaper](https://github.com/ipfs/ipfs/blob/master/papers/ipfs-cap2pfs/ipfs-p2p-file-system.pdf)
- - Learn Solidity
- - Learn Golang 
- - Learn React
+ - [Rootstock Whitepaper](http://www.the-blockchain.com/docs/Rootstock-WhitePaper-Overview.pdf)
+ - [Learn Solidity](http://solidity.readthedocs.io/en/develop/)
+ - [Learn Golang](https://golang.org/doc/#learning)
+ - [Learn React](https://facebook.github.io/react/tutorial/tutorial.html)
 
 > Made with :heart: at BITNATION.
