@@ -104,11 +104,11 @@ There are many ways to help grow the movement through outreach and communication
 
 ### Getting Started
 
-The best way to get involved in the development process is probably to join our [slack](https://bitn.slack.com) after reading the following documentation.
+The best way to get involved in the development process is through joining our [slack](https://bitn.slack.com) after reading the following documentation.
 
 ### Languages and Frameworks
 
- -  [Panthalassa](https://github.com/Bit-Nation/BITNATION-Panthalassa), our backend is made in Golang.
+ -  [Panthalassa](https://github.com/Bit-Nation/BITNATION-Panthalassa), our mesh network backend is made in Golang.
  -  [Pangea](https://github.com/Bit-Nation/BITNATION-Pangea) is our frontend under heavy redevelopment, the new version will be made with React Native.
  -  The [entity framework](https://github.com/Bit-Nation/BITNATION-Framework) is made in Solidity.
  -  The [registry](https://github.com/Bit-Nation/BITNATION-Registry) will be merged in the framework, it is in solidity too.
@@ -122,14 +122,10 @@ The best way to get involved in the development process is probably to join our 
 
 We are pinning relevant repositories on our [profile](https://github.com/Bit-Nation).
 
-### Panthalassa API and Documentation
+### API and Documentation
 
  -  [Panthalassa REST JSON API](https://github.com/Bit-Nation/BITNATION-Panthalassa/blob/master/api/api.go).
  -  [Panthalassa Swagger Documentation](https://github.com/Bit-Nation/BITNATION-Panthalassa/blob/master/api/panthalassa.yaml).
-
-### Pangea API and Documentation
-
-Since Pangea is under heavy work we are not able to provide a documentation for that part at the moment, keep watching the [repo](https://github.com/Bit-Nation/BITNATION-Pangea)!
 
 ### UI/UX Resources
 
@@ -146,7 +142,7 @@ Since Pangea is under heavy work we are not able to provide a documentation for 
 We are trying to maximize our code testing coverage, thus all the different repositories are shipping with unit tests compliant to the language or framework standard.
 
  -  [Panthalassa](https://github.com/Bit-Nation/BITNATION-Panthalassa) support the golang testing framework, use `go test -v ./...` in the cloned project (after downloading dependencies).
- -  [Pangea](https://github.com/Bit-Nation/BITNATION-Pangea) can be tested via `npm` thanks to `npm run test` (please install the dependencies with `npm install` first).
+ -  The previous version of [Pangea](https://github.com/Bit-Nation/BITNATION-Pangea) can be tested via `npm` thanks to `npm run test` (please install the dependencies with `npm install` first). Information about the new version will be added shortly.
  -  The [entity framework](https://github.com/Bit-Nation/BITNATION-Framework) uses truffle, everything is bundled via `npm` after installing dependencies via `npm install` just do `npm run test`.
  -  The informations concerning the registry are detailed in its [readme](https://github.com/Bit-Nation/BITNATION-Registry/blob/master/README.md).
 
