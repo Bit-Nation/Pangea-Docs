@@ -109,7 +109,7 @@ The best way to get involved in the development process is through joining our [
 ### Languages and Frameworks
 
  -  [Panthalassa](https://github.com/Bit-Nation/BITNATION-Panthalassa), our mesh network backend is made in Golang.
- -  [Pangea](https://github.com/Bit-Nation/BITNATION-Pangea) is our frontend under heavy redevelopment, the new version will be made with React Native.
+ -  [Pangea](https://github.com/Bit-Nation/BITNATION-Pangea-react) is our frontend under heavy redevelopment, this new version is made with React Native.
  -  The [entity framework](https://github.com/Bit-Nation/BITNATION-Framework) is made in Solidity.
  -  The [registry](https://github.com/Bit-Nation/BITNATION-Registry) will be merged in the framework, it is in solidity too.
 
@@ -144,7 +144,7 @@ We are pinning relevant repositories on our [profile](https://github.com/Bit-Nat
 We are trying to maximize our code testing coverage, thus all the different repositories are shipping with unit tests compliant to the language or framework standard.
 
  -  [Panthalassa](https://github.com/Bit-Nation/BITNATION-Panthalassa) support the golang testing framework, use `go test -v ./...` in the cloned project (after downloading dependencies).
- -  The previous version of [Pangea](https://github.com/Bit-Nation/BITNATION-Pangea) can be tested via `npm` thanks to `npm run test` (please install the dependencies with `npm install` first). Information about the new version will be added shortly.
+ -  The current version of the Pangea React frontend is being built [here](https://github.com/Bit-Nation/BITNATION-Pangea-react), please review and contribute. The previous version of [Pangea](https://github.com/Bit-Nation/BITNATION-Pangea) can be tested via `npm` thanks to `npm run test` (please install the dependencies with `npm install` first). 
  -  The [entity framework](https://github.com/Bit-Nation/BITNATION-Framework) uses truffle, everything is bundled via `npm` after installing dependencies via `npm install` just do `npm run test`.
  -  The informations concerning the registry are detailed in its [readme](https://github.com/Bit-Nation/BITNATION-Registry/blob/master/README.md).
 
