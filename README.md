@@ -150,7 +150,7 @@ We are trying to maximize our code testing coverage, thus all the different repo
  -  The current version of the Pangea React frontend is being built [here](https://github.com/Bit-Nation/BITNATION-Pangea-react), please review and contribute. The previous version of [Pangea](https://github.com/Bit-Nation/BITNATION-Pangea) can be tested via `npm` thanks to `npm run test` (please install the dependencies with `npm install` first). 
  -  The [entity framework](https://github.com/Bit-Nation/BITNATION-Framework) uses truffle, everything is bundled via `npm` after installing dependencies via `npm install` just do `npm run test`.
  -  The informations concerning the registry are detailed in its [readme](https://github.com/Bit-Nation/BITNATION-Registry/blob/master/README.md).
- - Most Solidity contracts are audited by ABDK consultants.
+ - Key Solidity contracts are audited by external auditors, primarily [ABDK Consultants](https://www.abdk.consulting/).
 
 ### Code Commit Guidelines and Code of Conduct
 
