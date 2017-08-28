@@ -34,9 +34,11 @@ If you want to familiarise yourself with Bitnation, here are some key documents 
  -  [Steemit](https://steemit.com/bitnation/@bitnation).
 
 ### MISC:
- -  [Community wiki](https://github.com/Bit-Nation/Pangea-Docs/wiki).
+ -  [Community Wiki](https://github.com/Bit-Nation/Pangea-Docs/wiki).
  -  [Wikipedia Page](https://www.wikiwand.com/en/Bitnation).
  -  [Community OPSEC Guidelines](https://docs.google.com/document/d/1E9uVmuW9_zhoStrcvkuK-3kg30ec7Qgj3qG4aK7IAic/edit).
+ -  [List of Articles and Videos](https://angel.co/bitnation/activity).
+ -  [Angel List](https://angel.co/bitnation)
 
 ---
 
