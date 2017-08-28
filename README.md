@@ -45,7 +45,9 @@ If you want to familiarise yourself with Bitnation, here are some key documents 
 If you want to contribute to the growth of the Bitnation community and our mission - this is the place for you.
 
 The best place to get to know the community is to join our [Slack](https://bitn.slack.com) channel and start contributing.
-It's helpful to write a short introduction about yourself and what you're interested in doing. Keep in mind that the Slack chat is *not* encrypted, and it's open for anyone to join, hence don't share anything you think could compromise your security, and use a pseudonym if you want to remain anoymous. Popular channels you can join includes the `#_bitnation-dev` channel, the `#_bitnation-marketing channel`, `#townhall`, `#intros`, and `#watercooler`.
+It's helpful to write a short introduction about yourself and what you're interested in doing. Keep in mind that the Slack chat is *not* encrypted, and it's open for anyone to join, hence don't share anything you think could compromise your security, and use a pseudonym if you want to remain anoymous. 
+
+Popular channels you can join includes the `#_dev` channel, the `#_marketing channel`, `#townhall`, `#intros`, and `#watercooler`.
 
 ### Join the Ambassador and Embassy Networks
 
@@ -104,7 +106,7 @@ There are many ways to help grow the movement through outreach and communication
 
 ### Getting Started
 
-The best way to get involved in the development process is through joining our [slack](https://bitn.slack.com) after reading the following documentation.
+The best way to get involved in the development process is through joining our [slack](https://bitn.slack.com) after reading the following documentation. Relevant Slack channels are #dev for general dev discussions, and #dev-bots for realtime dev push notifications from GitHub, Trello and Travis. 
 
 ### Languages and Frameworks
 
