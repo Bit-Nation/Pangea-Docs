@@ -47,7 +47,7 @@ If you want to contribute to the growth of the Bitnation community and our missi
 The best place to get to know the community is to join our [Slack](https://bitn.slack.com) channel and start contributing.
 It's helpful to write a short introduction about yourself and what you're interested in doing. Keep in mind that the Slack chat is *not* encrypted, and it's open for anyone to join, hence don't share anything you think could compromise your security, and use a pseudonym if you want to remain anoymous. 
 
-Popular channels you can join includes the `#_dev` channel, the `#_marketing channel`, `#townhall`, `#intros`, and `#watercooler`.
+Popular channels you can join includes #_dev`, `#_marketing`, `#townhall`, `#intros`, and `#watercooler`.
 
 ### Join the Ambassador and Embassy Networks
 
@@ -145,10 +145,12 @@ We are pinning relevant repositories on our [profile](https://github.com/Bit-Nat
 
 We are trying to maximize our code testing coverage, thus all the different repositories are shipping with unit tests compliant to the language or framework standard.
 
+ -  [Travis CI](https://travis-ci.org/Bit-Nation) is used per default in key-repositories
  -  [Panthalassa](https://github.com/Bit-Nation/BITNATION-Panthalassa) support the golang testing framework, use `go test -v ./...` in the cloned project (after downloading dependencies).
  -  The current version of the Pangea React frontend is being built [here](https://github.com/Bit-Nation/BITNATION-Pangea-react), please review and contribute. The previous version of [Pangea](https://github.com/Bit-Nation/BITNATION-Pangea) can be tested via `npm` thanks to `npm run test` (please install the dependencies with `npm install` first). 
  -  The [entity framework](https://github.com/Bit-Nation/BITNATION-Framework) uses truffle, everything is bundled via `npm` after installing dependencies via `npm install` just do `npm run test`.
  -  The informations concerning the registry are detailed in its [readme](https://github.com/Bit-Nation/BITNATION-Registry/blob/master/README.md).
+ - Most Solidity contracts are audited by ABDK consultants.
 
 ### Code Commit Guidelines and Code of Conduct
 
