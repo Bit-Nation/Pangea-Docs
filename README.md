@@ -18,7 +18,7 @@ If you want to familiarise yourself with Bitnation, here are some key documents 
  -  Liquid Holocracy DBVN [Constitution](https://github.com/Bit-Nation/BITNATION-Constitution) 2016.
  -  BITNATION [Whitepaper](https://docs.google.com/document/d/1r_VqWrKQw07E06XAtMv_cZnFyBZma4PFTBJpM5GuzbA/edit) 2014.
  -  [Foundational Document](https://docs.google.com/document/d/16HDB9AABa5rTOVFJj_8VLdOxgMguovLLAMviaTkZ1q4/edit) 2014.
- -  [Pre-Foundational Document](https://blog.bitnation.co/what-is-bitnation-the-googlement/)2014.
+ -  [Pre-Foundational Document](https://blog.bitnation.co/what-is-bitnation-the-googlement/) 2014.
 
 ### BITNATION and Pangea History: 
 
@@ -50,6 +50,8 @@ The best place to get to know the community is to join our [Slack](https://bitn.
 It's helpful to write a short introduction about yourself and what you're interested in doing. Keep in mind that the Slack chat is *not* encrypted, and it's open for anyone to join, hence don't share anything you think could compromise your security, and use a pseudonym if you want to remain anoymous. 
 
 Popular channels you can join includes #_dev`, `#_marketing`, `#townhall`, `#intros`, and `#watercooler`.
+
+The Slack community will be moved to Pangea after the Beta release.
 
 ### Join the Ambassador and Embassy Networks
 
