@@ -100,6 +100,8 @@ There are many ways to help grow the movement through outreach and communication
 
 ### Community Code of Conduct
 
+The generic [Citizen Code of Conduct](http://citizencodeofconduct.org/) is [applied](https://github.com/Bit-Nation/Pangea-Docs/blob/master/CODE_OF_CONDUCT.md) to most repositories and channels within BITNATION. However, here are some values we would like to highlight more specifically. 
+
  -  **Clarity above all** Understanding the challenges of communicating across different timezones, culture and personalities both during written and verbal communications. It’s advisable to avoid sweeping statements in favor of clearly articulated sentences with well defined purposes. 
  -  **Refrain from jumping to conclusions** A fundamental problem in many conversations is that we overestimate others capacity to understand our written and verbal communications, and we overestimate our own capacity to understand what they’re trying to communicate. When analyzing what the other person is trying to communicate, take their context into account, including things like timezone, native language, and personal circumstances. 
  -  **Respectfulness** We have come together to change the status quo through creating kickass software, to that end being disrespectful can divert the conversation from our set purpose into irrelevant areas. Personal slights and attacks does not foster a good collaborative space, it's wise to avoid them. When we are emotionally affected by communications, attempt to take a step backwards and swallow the chill pill. 
