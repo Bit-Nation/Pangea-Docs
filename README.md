@@ -1,4 +1,4 @@
-# BITNATION and Pangea Docs and Contributor Guidelines
+# BITNATION and Pangea Documents, Resources and Contributor Guidelines
 
 :v: The community is one of the driving forces of BITNATION. To be resilient, we need a decentralised community of contributors, as much as a decentralised technology. It doesn’t matter what your profession is, your skill level, your nationality, age, education or gender. Everyone is welcome to join in to help make BITNATION and our Pangea software a success that changes the status quo of governance. :earth_americas::earth_asia::earth_africa:
 
