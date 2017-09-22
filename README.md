@@ -121,10 +121,11 @@ The best way to get involved in the development process is through joining our [
  -  The [entity framework](https://github.com/Bit-Nation/BITNATION-Framework) is made in Solidity.
  -  The [registry](https://github.com/Bit-Nation/BITNATION-Registry) will be merged in the framework, it is in solidity too.
 
-### Whitepaper and Roadmap
+### Whitepaper, Roadmap and Development Updates
 
  -  [Whitepaper](https://docs.google.com/document/d/1lnbUKaCzy1F3yrI73bMoIOAqK9h5mwtwuA_1z9G2Cqg/edit).
  -  [High-Level Development Roadmap and Task List](https://trello.com/b/rb43zuUn/bitnation-dev).
+ -  Regular [Development Updates](https://steemit.com/@bitnation) are published on Steemit
 
 ### Key-Repositories
 
