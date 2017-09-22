@@ -142,6 +142,14 @@ We are pinning relevant repositories on our [profile](https://github.com/Bit-Nat
  -  Our [Logo](https://github.com/Bit-Nation/Bitnation-Branding-Guidelines/tree/master/Logo%20And%20Branding%20Files) source files 
  -  Our [Font](https://github.com/Bit-Nation/Bitnation-Branding-Guidelines/blob/master/Logo%20And%20Branding%20Files/Font-Guide.md) Guidelines
  
+ ### Solidity Contracts
+ 
+ - [Pangea Arbitration Token](https://github.com/Bit-Nation/Pangea-Arbitration-Token-PAT) (PAT) ERC20 Standard
+ - [Token Sale Event](https://github.com/Bit-Nation/Token-Sale-Event-TSE) (TSE). The code is currently being reworked.
+ - [Pangea Map](https://github.com/Bit-Nation/BITNATION-Map) (of Citizens, Embassies, Consulates, etc)
+ - [Pangea Registry](https://github.com/Bit-Nation/BITNATION-Registry) (of Holons, Nations, Embassies, etc)
+ - [Pangea DBVN Entity Framework](https://github.com/Bit-Nation/BITNATION-Framework)
+ 
  ### Release Model
 
  -  Following the [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)) methodology we will be using sprint releases whenever possible.
