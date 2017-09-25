@@ -16,7 +16,7 @@ If you want to familiarise yourself with Bitnation, here are some key documents 
 
 ## BITNATION Overview and Philosophy:
 
- -  Pangea [Whitepaper](https://docs.google.com/document/d/1lnbUKaCzy1F3yrI73bMoIOAqK9h5mwtwuA_1z9G2Cqg/edit) 2017.
+ -  Pangea [Whitepaper](https://github.com/Bit-Nation/Pangea-Docs/blob/master/BITNATION%20Pangea%20Whitepaper%202017.pdf) 2017.
  -  Liquid Holocracy DBVN [Constitution](https://github.com/Bit-Nation/BITNATION-Constitution) 2016.
  -  BITNATION [Whitepaper](https://docs.google.com/document/d/1r_VqWrKQw07E06XAtMv_cZnFyBZma4PFTBJpM5GuzbA/edit) 2014.
  -  [Foundational Document](https://docs.google.com/document/d/16HDB9AABa5rTOVFJj_8VLdOxgMguovLLAMviaTkZ1q4/edit) 2014.
