@@ -114,11 +114,11 @@ The generic [Citizen Code of Conduct](http://citizencodeofconduct.org/) is [appl
 
 ### Getting Started
 
-The best way to get involved in the development process is through joining our [slack](https://bitn.slack.com) after reading the following documentation. Relevant Slack channels are #dev for general dev discussions, and #dev-bots for realtime dev push notifications from GitHub, Trello and Travis. 
+The best way to get involved in the development process is through joining our [slack](https://bitn.slack.com) after reading the following documentation. Relevant Slack channels are #dev for general dev discussions, and #dev-bots for realtime dev push notifications from GitHub, Trello and TravisCI. 
 
 ### Languages and Frameworks
 
- -  [Panthalassa](https://github.com/Bit-Nation/BITNATION-Panthalassa), our mesh network backend is made in Golang.
+ -  Panthalassa, our mesh network backend was initially built in [Golang](https://github.com/Bit-Nation/BITNATION-Panthalassa), but is currently being refactored into TypeScript, follow the development [here](https://github.com/Bit-Nation/BITNATION-Panthalassa-TS).
  -  [Pangea](https://github.com/Bit-Nation/BITNATION-Pangea-react) is our frontend under heavy redevelopment, this new version is made with React Native.
  -  The [entity framework](https://github.com/Bit-Nation/BITNATION-Framework) is made in Solidity.
  -  The [registry](https://github.com/Bit-Nation/BITNATION-Registry) will be merged in the framework, it is in solidity too.
