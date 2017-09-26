@@ -75,7 +75,7 @@ The Pangea software is setup for you to create your own Decentralized Borderless
 
  -  The [BITNATION Framework](https://github.com/Bit-Nation/BITNATION-Framework).
  -  The [old DBVN code](https://github.com/Bit-Nation/BITNATION-Constitution/tree/master/dapp).
- -  This [Questionnaire](https://s3-us-west-2.amazonaws.com/bitnationfiles/create-your-own-nation.pdf) to help you plan your Nation.
+ -  This [Questionnaire](https://github.com/Bit-Nation/Pangea-Docs/blob/master/create-your-own-nation.pdf) to help you plan your Nation.
  -  Our [DBVN Resource Center](https://bitnation.co/nations-resources/?la=en).
  -  Some [Advice](https://steemit.com/blockchain/@bitnation/create-your-own-nation-by-tarkowski-tempelhof)... 
 
