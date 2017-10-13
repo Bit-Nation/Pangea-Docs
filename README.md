@@ -129,7 +129,8 @@ The best way to get involved in the development process is through joining our [
 
  -  [Whitepaper](https://github.com/Bit-Nation/Pangea-Docs/blob/master/BITNATION%20Pangea%20Whitepaper%202017.pdf).
  -  [High-Level Development Roadmap and Task List](https://trello.com/b/rb43zuUn/bitnation-dev).
- -  Regular [Development Updates](https://steemit.com/@bitnation) are published on Steemit
+ -  [Open Development Tasks](https://trello.com/b/8L5zsyzM/bitnation-dev-internal) on Trello.
+ -  Regular [Development Updates](https://steemit.com/@bitnation) are published on Steemit.
 
 ### Key-Repositories
 
