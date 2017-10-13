@@ -5,7 +5,9 @@
 To get to know us, the best place to start is through:
 
  -  Join our community on [Slack](https://bitn.slack.com).
- -  Participate in tasks on [Trello](https://trello.com/b/rb43zuUn/bitnation-dev).
+ -  Participate in [community tasks](https://trello.com/b/c6ckOIxF/bitnation-generic) on Trello.
+ -  Participate in [dev tasks](https://trello.com/b/8L5zsyzM/bitnation-dev-internal) on Trello.
+ -  View the [Development Roadmap](https://trello.com/b/rb43zuUn/bitnation-dev) on Trello.
  -  Contribute to our code on [GitHub](https://github.com/Bit-Nation).
  
 Visit the [Bitnation website](https://bitnation.co/), and the [Pangea website](https://tse.bitnation.co/index.html).
