@@ -122,6 +122,7 @@ The best way to get involved in the development process is through joining our [
 
  -  Panthalassa, our mesh network backend was initially built in [Golang](https://github.com/Bit-Nation/BITNATION-Panthalassa), but is currently being refactored into JavaScript + Flow, follow the development [here](https://github.com/Bit-Nation/Panthalassa).
  -  [Pangea](https://github.com/Bit-Nation/BITNATION-Pangea-react) is our frontend under heavy redevelopment, this new version is made with React Native.
+ -  Our AI Lucy who governs the reputation system is in Solidity, you can follow the progress [here](https://github.com/Bit-Nation/Lucy-draft)
  -  The [entity framework](https://github.com/Bit-Nation/BITNATION-Framework) is made in Solidity.
  -  The [registry](https://github.com/Bit-Nation/BITNATION-Registry) will be merged in the framework, it is in solidity too.
 
@@ -152,6 +153,7 @@ We are pinning relevant repositories on our [profile](https://github.com/Bit-Nat
  
  - [Pangea Arbitration Token](https://github.com/Bit-Nation/Pangea-Arbitration-Token-PAT) (PAT) ERC20 Standard
  - [Token Sale Event](https://github.com/Bit-Nation/Token-Sale-Event-TSE) (TSE). The code is currently being reworked.
+ - [Lucy Bot](https://github.com/Bit-Nation/Lucy-draft) Governing token distribution and reputation.
  - [Pangea Map](https://github.com/Bit-Nation/BITNATION-Map) (of Citizens, Embassies, Consulates, etc)
  - [Pangea Registry](https://github.com/Bit-Nation/BITNATION-Registry) (of Holons, Nations, Embassies, etc)
  - [Pangea DBVN Entity Framework](https://github.com/Bit-Nation/BITNATION-Framework)
