@@ -52,6 +52,9 @@ If you want to familiarise yourself with Bitnation, here are some key documents 
  - [Portugeise](https://github.com/Bit-Nation/Pangea-Docs/blob/master/Portuguese%20Translations/BITNATION%20Pangea%20Whitepaper%202017%20-%20PT.pdf)
  - [Korean](https://github.com/Bit-Nation/Pangea-Docs/blob/master/Korean%20Translations/BITNATION%20Pangea%20Whitepaper%202017%20-%20KO.pdf)
  - [Chinese (Mandarin)](https://github.com/Bit-Nation/Pangea-Docs/blob/master/Chinese%20Translations/BITNATION%20Pangea%20Whitepaper%202017%20-%20ZH.pdf)
+ - [German](https://github.com/Bit-Nation/Pangea-Docs/tree/master/German%20Translations)
+ - [Italian](https://github.com/Bit-Nation/Pangea-Docs/tree/master/Italian%20Translations)
+ - [Japanese](https://github.com/Bit-Nation/Pangea-Docs/tree/master/Japanese%20Translations)
  
  If you want to contribute with additional translations, please contract @erik93 on the Slack channel.
 
