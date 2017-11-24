@@ -55,6 +55,7 @@ If you want to familiarise yourself with Bitnation, here are some key documents 
  - [German](https://github.com/Bit-Nation/Pangea-Docs/tree/master/German%20Translations)
  - [Italian](https://github.com/Bit-Nation/Pangea-Docs/tree/master/Italian%20Translations)
  - [Japanese](https://github.com/Bit-Nation/Pangea-Docs/tree/master/Japanese%20Translations)
+ - [Vietnamese](https://github.com/Bit-Nation/Pangea-Docs/tree/master/Vietnamese%20Translations)
  
  If you want to contribute with additional translations, please contract @erik93 on the Slack channel.
 
