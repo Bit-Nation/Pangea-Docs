@@ -4,7 +4,7 @@
 
 To get to know us, the best place to start is through:
 
- -  Join our community on [Slack](https://bitn.slack.com).
+ -  Join our community on [Telegram](https://t.me/PangeaBitnation).
  -  Participate in [community tasks](https://trello.com/b/c6ckOIxF/bitnation-generic) on Trello.
  -  Participate in [dev tasks](https://trello.com/b/8L5zsyzM/bitnation-dev-internal) on Trello.
  -  View the [Development Roadmap](https://trello.com/b/rb43zuUn/bitnation-dev) on Trello.
@@ -66,12 +66,13 @@ If you want to familiarise yourself with Bitnation, here are some key documents 
 
 If you want to contribute to the growth of the Bitnation community and our mission - this is the place for you.
 
-The best place to get to know the community is to join our [Slack](https://bitn.slack.com) channel and start contributing.
-It's helpful to write a short introduction about yourself and what you're interested in doing. Keep in mind that the Slack chat is *not* encrypted, and it's open for anyone to join, hence don't share anything you think could compromise your security, and use a pseudonym if you want to remain anoymous. 
+The best place to get to know the community is to join our [Telegram](https://t.me/PangeaBitnation) channel and start contributing. It's helpful to write a short introduction about yourself and what you're interested in doing. 
+
+Our Slack channel is still widely used, but we can't accept anymore people into it, due to the Slack restrictions. Keep in mind that the Slack chat is *not* encrypted, hence don't share anything you think could compromise your security, and use a pseudonym if you want to remain anoymous. 
 
 Popular channels you can join includes #_dev`, `#_marketing`, `#townhall`, `#intros`, and `#watercooler`.
 
-The Slack community will be moved to Pangea after the Beta release.
+The Slack and Telegram communities will be moved to Pangea in 2018.
 
 ### Join the Ambassador and Embassy Networks
 
