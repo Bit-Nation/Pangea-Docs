@@ -49,7 +49,7 @@ If you want to familiarise yourself with Bitnation, here are some key documents 
  Key documents like the Pangea Whitepaper are in separate folders in [this repository](https://github.com/Bit-Nation/Pangea-Docs). Current translations include:
  - [Russian](https://github.com/Bit-Nation/Pangea-Docs/blob/master/Russian%20Translations/BITNATION%20Pangea%20Whitepaper%202017%20-%20RU.pdf)
  - [Spanish](https://github.com/Bit-Nation/Pangea-Docs/blob/master/Spanish%20Translations/BITNATION%20Pangea%20Whitepaper%202017%20-%20ES.pdf)
- - [Portugeise](https://github.com/Bit-Nation/Pangea-Docs/blob/master/Portuguese%20Translations/BITNATION%20Pangea%20Whitepaper%202017%20-%20PT.pdf)
+ - [Portuguese](https://github.com/Bit-Nation/Pangea-Docs/blob/master/Portuguese%20Translations/BITNATION%20Pangea%20Whitepaper%202017%20-%20PT.pdf)
  - [Korean](https://github.com/Bit-Nation/Pangea-Docs/blob/master/Korean%20Translations/BITNATION%20Pangea%20Whitepaper%202017%20-%20KO.pdf)
  - [Chinese (Mandarin)](https://github.com/Bit-Nation/Pangea-Docs/blob/master/Chinese%20Translations/BITNATION%20Pangea%20Whitepaper%202017%20-%20ZH.pdf)
  - [German](https://github.com/Bit-Nation/Pangea-Docs/tree/master/German%20Translations)
