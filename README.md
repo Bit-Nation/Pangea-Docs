@@ -4,7 +4,7 @@
 
 To get to know us, the best place to start is through:
 
- -  Install the Pangea app on [Android](https://play.google.com/store/apps/details?id=co.bitnation&hl=en)
+ -  Install the Pangea Jurisdiction on [Android](https://play.google.com/store/apps/details?id=co.bitnation&hl=en) (search for Bitnation in the Google Play store)
  -  Join our community on [Telegram](https://t.me/PangeaBitnation).
  -  Participate in [community tasks](https://trello.com/b/c6ckOIxF/bitnation-generic) on Trello.
  -  Participate in [dev tasks](https://trello.com/b/8L5zsyzM/bitnation-dev-internal) on Trello.
