@@ -164,12 +164,12 @@ We are pinning relevant repositories on our [profile](https://github.com/Bit-Nat
  
  ### Solidity Contracts
  
- - [Pangea Arbitration Token](https://github.com/Bit-Nation/Pangea-Arbitration-Token-PAT) (PAT) ERC20 Standard
- - [Token Sale Event](https://github.com/Bit-Nation/Token-Sale-Event-TSE) (TSE). The code is currently being reworked.
+ - [Pangea Arbitration Token](https://github.com/Bit-Nation/pat-token-contract) (PAT) ERC20 Standard
+ - [Token Sale Event](https://github.com/Bit-Nation/ico-auction-contracts) (TSE). Phase III code comming soon.
  - [Lucy Bot](https://github.com/Bit-Nation/Lucy-draft) Governing token distribution and reputation.
  - [Pangea Map](https://github.com/Bit-Nation/BITNATION-Map) (of Citizens, Embassies, Consulates, etc)
  - [Pangea Registry](https://github.com/Bit-Nation/BITNATION-Registry) (of Holons, Nations, Embassies, etc)
- - [Pangea DBVN Entity Framework](https://github.com/Bit-Nation/BITNATION-Framework)
+ - [Pangea DBVN Entity Framework](https://github.com/Bit-Nation/nation-framework)
  
  ### Release Model
 
