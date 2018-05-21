@@ -180,14 +180,12 @@ We are pinning relevant repositories on our [profile](https://github.com/Bit-Nat
 
 We are trying to maximize our code testing coverage, thus all the different repositories are shipping with unit tests compliant to the language or framework standard.
 
- -  The current version of the Pangea React frontend is being built [here](https://github.com/Bit-Nation/BITNATION-Pangea-react), please review and contribute. 
- -  You can test the Pangea application on your mobile phone using expo.io, simply install expo.io and scan the [QR code](https://expo.io/@danielfranca/bitnation) with your phone.
- -  The previous version of [Pangea](https://github.com/Bit-Nation/BITNATION-Pangea) can be tested via `npm` thanks to `npm run test` (please install the dependencies with `npm install` first). 
+ -  The current version of the Pangea React Native frontend is being built [here](https://github.com/Bit-Nation/BITNATION-Pangea-mobile), please review and contribute. 
+ -  You can use Bitnation directly on your Android and iOS phone (via Testflight). It's currently on Ethereum mainnet, although more chains will be added shortly (Bitcoin via Rootstock, EOS and Lisk).
  -  [Travis CI](https://travis-ci.org/Bit-Nation) is used per default in key-repositories
  -  [Panthalassa](https://github.com/Bit-Nation/BITNATION-Panthalassa) support the golang testing framework, use `go test -v ./...` in the cloned project (after downloading dependencies).
- -  The [entity framework](https://github.com/Bit-Nation/BITNATION-Framework) uses truffle, everything is bundled via `npm` after installing dependencies via `npm install` just do `npm run test`.
  -  The informations concerning the registry are detailed in its [readme](https://github.com/Bit-Nation/BITNATION-Registry/blob/master/README.md).
- - Key Solidity contracts are audited by external auditors, primarily [ABDK Consultants](https://www.abdk.consulting/).
+ - Key Solidity contracts are audited by external auditors, primarily [ABDK Consultants](https://www.abdk.consulting/) and [ZK Labs](http://zklabs.io/).
 
 ### Code Commit Guidelines and Code of Conduct
 
