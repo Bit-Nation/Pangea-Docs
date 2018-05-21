@@ -8,7 +8,7 @@ To get to know us, the best place to start is through:
  -  Join our community on [Telegram](https://t.me/PangeaBitnation).
  -  Contribute to our code on [GitHub](https://github.com/Bit-Nation).
  
-Visit the [Bitnation website](https://bitnation.co/), and the [Pangea website](https://tse.bitnation.co/index.html).
+Visit the [Bitnation website](https://bitnation.co/) (temporarily closed due to the token sale), and the [Pangea website](https://tse.bitnation.co/index.html).
 
 If you want to familiarise yourself with Bitnation, here are some key documents to read:
 
@@ -133,12 +133,10 @@ The best way to get involved in the development process is through joining our [
 
 ### Languages and Frameworks
 
- -  Panthalassa, our mesh network backend containing the wallet and other utils is currently being refactored [here](https://github.com/Bit-Nation/panthalassa).
- -  [Pangea](https://github.com/Bit-Nation/BITNATION-Pangea-mobile) is our mobile frontend repository under heavy redevelopment, this new version is made with React Native.
- -  Our token [Pangea Arbitration Token (PAT)](https://github.com/Bit-Nation/Pangea-Arbitration-Token-PAT) is an ERC20 Solidity token.
- -  Our AI Lucy who governs the reputation system is in Solidity, you can follow the progress [here](https://github.com/Bit-Nation/Lucy-draft)
- -  The [entity framework](https://github.com/Bit-Nation/BITNATION-Framework) is made in Solidity.
- -  The [registry](https://github.com/Bit-Nation/BITNATION-Registry) will be merged in the framework, it is in solidity too.
+ -  Panthalassa, our mesh network backend written in Go containing the wallet and other utils is currently being refactored [here](https://github.com/Bit-Nation/panthalassa).
+ -  [Pangea](https://github.com/Bit-Nation/BITNATION-Pangea-mobile) is our mobile frontend repository, this  version is made with React Native.
+ -  Our token [Pangea Arbitration Token (PAT)](https://github.com/Bit-Nation/pat-token-contract) is an ERC20 Solidity token.
+ -  Our AI Lucy who governs the reputation system is in Solidity as well, you can follow the progress [here](https://github.com/Bit-Nation/Lucy-draft)
 
 ### Whitepaper, Roadmap and Development Updates
 
