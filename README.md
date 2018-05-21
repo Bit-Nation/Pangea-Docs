@@ -88,10 +88,8 @@ Bitnation has over 100 embassies, consulates worldwide. You can find out more ab
 
 ### Start Your Own Nation
 
-The Pangea software is setup for you to create your own Decentralized Borderless Voluntary Nation (DBVN). However, until Pangea v.03 is out you can do it yourself through using our DBVN code. Here are a few resources to help you setup your own Nation:
+The Pangea software is setup for you to create your own Decentralized Borderless Voluntary Nation (DBVN). You can set it up directly on the Android and iOS app, with a small amount of ETH gas. Here are a few resources read up on before you setup your own Nation:
 
- -  The [BITNATION Framework](https://github.com/Bit-Nation/BITNATION-Framework).
- -  The [old DBVN code](https://github.com/Bit-Nation/BITNATION-Constitution/tree/master/dapp).
  -  This [Questionnaire](https://github.com/Bit-Nation/Pangea-Docs/blob/master/create-your-own-nation.pdf) to help you plan your Nation.
  -  Our [DBVN Resource Center](https://bitnation.co/nations-resources/?la=en).
  -  Some [Advice](https://steemit.com/blockchain/@bitnation/create-your-own-nation-by-tarkowski-tempelhof)... 
