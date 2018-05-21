@@ -135,7 +135,7 @@ The best way to get involved in the development process is through joining our [
 
 ### Languages and Frameworks
 
- -  Panthalassa, our mesh network backend was initially built in [Golang](https://github.com/Bit-Nation/BITNATION-Panthalassa), but is currently being refactored into JavaScript + Flow, follow the development [here](https://github.com/Bit-Nation/BITNATION-Pangea-libs).
+ -  Panthalassa, our mesh network backend containing the wallet and other utils is currently being refactored [here](https://github.com/Bit-Nation/panthalassa).
  -  [Pangea](https://github.com/Bit-Nation/BITNATION-Pangea-mobile) is our mobile frontend repository under heavy redevelopment, this new version is made with React Native.
  -  Our token [Pangea Arbitration Token (PAT)](https://github.com/Bit-Nation/Pangea-Arbitration-Token-PAT) is an ERC20 Solidity token.
  -  Our AI Lucy who governs the reputation system is in Solidity, you can follow the progress [here](https://github.com/Bit-Nation/Lucy-draft)
