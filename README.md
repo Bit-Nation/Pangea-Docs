@@ -6,9 +6,6 @@ To get to know us, the best place to start is through:
 
  -  Install the Pangea Jurisdiction on [Android](https://play.google.com/store/apps/details?id=co.bitnation&hl=en) (search for Bitnation in the Google Play store)
  -  Join our community on [Telegram](https://t.me/PangeaBitnation).
- -  Participate in [community tasks](https://trello.com/b/c6ckOIxF/bitnation-generic) on Trello.
- -  Participate in [dev tasks](https://trello.com/b/8L5zsyzM/bitnation-dev-internal) on Trello.
- -  View the [Development Roadmap](https://trello.com/b/rb43zuUn/bitnation-dev) on Trello.
  -  Contribute to our code on [GitHub](https://github.com/Bit-Nation).
  
 Visit the [Bitnation website](https://bitnation.co/), and the [Pangea website](https://tse.bitnation.co/index.html).
@@ -149,7 +146,6 @@ The best way to get involved in the development process is through joining our [
 
  -  [Whitepaper](https://github.com/Bit-Nation/Pangea-Docs/blob/master/BITNATION%20Pangea%20Whitepaper%202017.pdf).
  -  [High-Level Development Roadmap and Task List](https://trello.com/b/rb43zuUn/bitnation-dev).
- -  [Open Development Tasks](https://trello.com/b/8L5zsyzM/bitnation-dev-internal) on Trello.
  -  Regular [Development Updates](https://steemit.com/@bitnation) are published on Steemit.
 
 ### Key-Repositories
