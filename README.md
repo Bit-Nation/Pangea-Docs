@@ -4,7 +4,7 @@
 
 To get to know us, the best place to start is through:
 
- -  Install the Pangea Jurisdiction on [Android](https://play.google.com/store/apps/details?id=co.bitnation&hl=en) (search for Bitnation in the Google Play store) and via TestFlight on iOS. Download the TestFlight app from the iOS app store, then go to tse.bitnation.co and click on the iOS symbol to get an invitation code via email. Make sure to use the email associated with your Apple account.
+ -  Install the Pangea Jurisdiction on [Android](https://play.google.com/store/apps/details?id=co.bitnation&hl=en) (search for Bitnation in the Google Play store) and via [TestFlight](https://developer.apple.com/testflight/) on iOS. Download the TestFlight app from the iOS app store, then go to the [Bitnation website](https://tse.bitnation.co/#install) and click on the iOS button to get an invitation code via email. Make sure to use the email associated with your Apple account.
  -  Join our community on [Telegram](https://t.me/PangeaBitnation).
  -  Contribute to our code on [GitHub](https://github.com/Bit-Nation).
  
