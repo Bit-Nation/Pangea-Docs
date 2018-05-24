@@ -1,6 +1,6 @@
 # BITNATION and Pangea Documents, Resources and Contributor Guidelines
 
-:v: The community is one of the driving forces of BITNATION. To be resilient, we need a decentralised community of contributors, as much as a decentralised technology. It doesn’t matter what your profession is, your skill level, your nationality, age, education or gender. Everyone is welcome to join in to help make BITNATION and our Pangea software a success that changes the status quo of governance. :earth_americas::earth_asia::earth_africa:
+:v: The community is one of the driving forces of BITNATION. To be resilient, we need a decentralised community of contributors, as much as we need a decentralised technology. It doesn’t matter what your profession is, your skill level, your nationality, age, education or gender. Everyone is welcome to join in to help make BITNATION and our Pangea software a success that changes the status quo of governance. :earth_americas::earth_asia::earth_africa:
 
 To get to know us, the best place to start is through:
 
@@ -16,7 +16,7 @@ If you want to familiarise yourself with Bitnation, here are some key documents 
 
 ## BITNATION Overview and Philosophy:
 
- -  Pangea [Whitepaper](https://github.com/Bit-Nation/Pangea-Docs/blob/master/BITNATION%20Pangea%20Whitepaper%202018.pdf).It was initially written in 2017, but this is the updated 2018 version.
+ -  Pangea [Whitepaper](https://github.com/Bit-Nation/Pangea-Docs/blob/master/BITNATION%20Pangea%20Whitepaper%202018.pdf). It was initially written in April 2017, but this is the updated 2018 version.
  -  Liquid Holocracy DBVN [Constitution](https://github.com/Bit-Nation/BITNATION-Constitution) 2016.
  -  BITNATION [Whitepaper](https://github.com/Bit-Nation/Pangea-Docs/blob/master/Bitnation%20Whitepaper%202014.pdf) 2014.
  -  [Foundational Document](https://docs.google.com/document/d/16HDB9AABa5rTOVFJj_8VLdOxgMguovLLAMviaTkZ1q4/edit) 2014.
@@ -44,7 +44,7 @@ If you want to familiarise yourself with Bitnation, here are some key documents 
  
  ### Translations:
  
- Key documents like the Pangea Whitepaper are in separate folders in [this repository](https://github.com/Bit-Nation/Pangea-Docs). Current translations include:
+ Key documents including the Pangea Whitepaper are in separate folders in [this repository](https://github.com/Bit-Nation/Pangea-Docs). Current translations include:
  - [Russian](https://github.com/Bit-Nation/Pangea-Docs/blob/master/Russian%20Translations/BITNATION%20Pangea%20Whitepaper%202017%20-%20RU.pdf)
  - [Spanish](https://github.com/Bit-Nation/Pangea-Docs/blob/master/Spanish%20Translations/BITNATION%20Pangea%20Whitepaper%202017%20-%20ES.pdf)
  - [Portuguese](https://github.com/Bit-Nation/Pangea-Docs/blob/master/Portuguese%20Translations/BITNATION%20Pangea%20Whitepaper%202017%20-%20PT.pdf)
