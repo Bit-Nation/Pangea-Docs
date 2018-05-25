@@ -72,6 +72,15 @@ Popular channels you can join includes #_dev`, `#_marketing`, `#townhall`, `#int
 
 The Slack and Telegram communities will be moved to Pangea in 2018.
 
+### Pangea Arbitration Token (XPAT) Wallets and Exchanges list
+
+More wallets and exchanges are added every week.
+
+* [Citowise](https://citowise.com/)
+* [Chainrift](https://www.chainrift.com/)
+* [Etherdelta](https://etherdelta.com/)
+* [ForkDelta](https://forkdelta.github.io/)
+
 ### Join the Ambassador and Embassy Networks
 
 The Ambassador and Embassy networks were conceived as analogue versions of Pangea. A real world network of people and places where digital nomads can get advice, peer-to-peer assistance, meet-up and hang out. There are three types of Bitnation representatives:
