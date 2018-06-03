@@ -80,6 +80,7 @@ More wallets and exchanges are added every week.
 * [Chainrift](https://www.chainrift.com/)
 * [Etherdelta](https://etherdelta.com/)
 * [ForkDelta](https://forkdelta.github.io/)
+* [TokenJar](https://tokenjar.io/)
 
 ### Join the Ambassador and Embassy Networks
 
