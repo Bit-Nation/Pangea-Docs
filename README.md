@@ -76,11 +76,14 @@ The Slack and Telegram communities will be moved to Pangea in 2018.
 
 More wallets and exchanges are added every week.
 
+* [BITNATION](https://play.google.com/store/apps/details?id=co.bitnation)
+* [Bancor](https://www.bancor.network/communities/5b05667a794f5d00014c2f5b/about)
 * [Citowise](https://citowise.com/)
 * [Chainrift](https://www.chainrift.com/)
 * [Etherdelta](https://etherdelta.com/)
 * [ForkDelta](https://forkdelta.github.io/)
 * [TokenJar](https://tokenjar.io/)
+
 
 ### Join the Ambassador and Embassy Networks
 
