@@ -84,6 +84,9 @@ More wallets and exchanges are added every week.
 * [ForkDelta](https://forkdelta.github.io/)
 * [TokenJar](https://tokenjar.io/)
 
+### Pangea Arbitration Token (XPAT) on listing websites
+
+* [CoinGecko](https://www.coingecko.com/en/coins/pangea-arbitration-token)
 
 ### Join the Ambassador and Embassy Networks
 
