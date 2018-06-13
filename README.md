@@ -83,6 +83,7 @@ More wallets and exchanges are added every week.
 * [Etherdelta](https://etherdelta.com/)
 * [ForkDelta](https://forkdelta.github.io/)
 * [TokenJar](https://tokenjar.io/)
+* [Komodo BarterDex](https://komodoplatform.com/decentralized-exchange/)
 
 ### Pangea Arbitration Token (XPAT) on listing websites
 
