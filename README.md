@@ -24,6 +24,7 @@ If you want to familiarise yourself with Bitnation, here are some key documents 
 
 ### BITNATION and Pangea History: 
 
+ -  [Yearly Summary](https://steemit.com/bitnation/@bitnation/yearly-summary-2017-2018-the-most-productive-year-yet) 2017-2018
  -  [Yearly Summary](https://steemit.com/introduce-yourself/@bitnation/bitnation-yearly-summary-the-year-of-pangea-by-tarkowski-tempelhof) 2015-2016.
  -  [Yearly Summary](https://medium.com/@susannetarkowskitempelhof/bitnation-year-1-summary-6a1c40b4ee5a) 2014-2015.
 
