@@ -91,6 +91,7 @@ More wallets and exchanges are added every week.
 ### Pangea Arbitration Token (XPAT) on listing websites
 
 * [CoinGecko](https://www.coingecko.com/en/coins/pangea-arbitration-token)
+* [CryptoCompare](https://www.cryptocompare.com/coins/xpat/overview)
 
 ### Join the Ambassador and Embassy Networks
 
