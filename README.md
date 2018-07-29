@@ -34,8 +34,7 @@ If you want to familiarise yourself with Bitnation, here are some key documents 
  -  [Facebook Page](https://www.facebook.com/Bitnation-Pangea-337620226422880/).
  -  [Facebook Group](https://www.facebook.com/groups/704796139595313/).
  -  [Twitter](https://twitter.com/MyBitNation).
- -  [Blog](https://steemit.com/@bitnation).
- -  [Steemit](https://steemit.com/bitnation/@bitnation).
+ -  [Steemit Blog](https://steemit.com/@bitnation).
 
 ### MISC:
  -  [Community Wiki](https://github.com/Bit-Nation/Pangea-Docs/wiki).
