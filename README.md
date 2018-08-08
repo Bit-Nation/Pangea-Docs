@@ -90,6 +90,7 @@ More wallets and exchanges are added every week.
 
 ### Pangea Arbitration Token (XPAT) on listing websites
 
+* [CoinMarketCap](https://coinmarketcap.com/currencies/bitnation/)
 * [CoinGecko](https://www.coingecko.com/en/coins/pangea-arbitration-token)
 * [CryptoCompare](https://www.cryptocompare.com/coins/xpat/overview)
 
