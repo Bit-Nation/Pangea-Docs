@@ -67,9 +67,7 @@ If you want to contribute to the growth of the Bitnation community and our missi
 
 The best place to get to know the community is to join our [Telegram](https://t.me/PangeaBitnation) channel and start contributing. It's helpful to write a short introduction about yourself and what you're interested in doing. 
 
-Our Slack channel is still widely used, but we can't accept anymore people into it, due to the Slack restrictions. Keep in mind that the Slack chat is *not* encrypted, hence don't share anything you think could compromise your security, and use a pseudonym if you want to remain anoymous. 
-
-Popular channels you can join includes #_dev`, `#_marketing`, `#townhall`, `#intros`, and `#watercooler`.
+Our Slack channel is still used, but we can't accept anymore people into it, due to the Slack restrictions. Keep in mind that the Slack chat is *not* encrypted, hence don't share anything you think could compromise your security, and use a pseudonym if you want to remain anoymous. 
 
 The Slack and Telegram communities will be moved to Pangea in 2018.
 
