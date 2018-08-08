@@ -8,7 +8,7 @@ To get to know us, the best place to start is through:
  -  Join our community on [Telegram](https://t.me/PangeaBitnation).
  -  Contribute to our code on [GitHub](https://github.com/Bit-Nation).
  
-Visit the [Bitnation website](https://bitnation.co/) (temporarily closed due to the token sale), and the [Pangea website](https://tse.bitnation.co/index.html).
+Visit the [Bitnation website](https://bitnation.co/) (open for 30 days for the Citizen Airdrop), and the [Pangea website](https://tse.bitnation.co/index.html).
 
 If you want to familiarise yourself with Bitnation, here are some key documents to read:
 
