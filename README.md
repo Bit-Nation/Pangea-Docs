@@ -91,6 +91,7 @@ More wallets and exchanges are added every week.
 * [CoinMarketCap](https://coinmarketcap.com/currencies/bitnation/)
 * [CoinGecko](https://www.coingecko.com/en/coins/pangea-arbitration-token)
 * [CryptoCompare](https://www.cryptocompare.com/coins/xpat/overview)
+* [CoinWatch](https://www.livecoinwatch.com/price/Bitnation-XPAT)
 
 ### Join the Ambassador and Embassy Networks
 
