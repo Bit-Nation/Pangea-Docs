@@ -154,19 +154,18 @@ The generic [Citizen Code of Conduct](http://citizencodeofconduct.org/) is [appl
 
 ### Getting Started
 
-The best way to get involved in the development process is through joining our [slack](https://bitn.slack.com) after reading the following documentation. Relevant Slack channels are #dev for general dev discussions, and #dev-bots for realtime dev push notifications from GitHub, Trello and TravisCI. 
+The best way to get involved in the development process is through joining our Slack channel and ask for the releveant channels on there, after reading the following documentation. You can get an invitation to Slack through speaking with the admins on our Telegram chat. 
 
 ### Languages and Frameworks
 
- -  Panthalassa, our mesh network backend written in Go containing the wallet and other utils is currently being refactored [here](https://github.com/Bit-Nation/panthalassa).
- -  [Pangea](https://github.com/Bit-Nation/BITNATION-Pangea-mobile) is our mobile frontend repository, this  version is made with React Native.
- -  Our token [Pangea Arbitration Token (PAT)](https://github.com/Bit-Nation/pat-token-contract) is an ERC20 Solidity token.
- -  Our AI Lucy who governs the reputation system is in Solidity as well, you can follow the progress [here](https://github.com/Bit-Nation/Lucy-draft)
+ -  Panthalassa, our mesh network backend written in Go containing the wallet and other utils [here](https://github.com/Bit-Nation/panthalassa).
+ -  [Pangea](https://github.com/Bit-Nation/BITNATION-Pangea-mobile) is our mobile frontend repository, this version is made with React Native.
+ -  Our token [Pangea Arbitration Token (PAT)](https://github.com/Bit-Nation/pat-token-contract), smart contracts, and reputation system is written in Solidity.
 
 ### Whitepaper, Roadmap and Development Updates
 
- -  [Whitepaper](https://github.com/Bit-Nation/Pangea-Docs/blob/master/BITNATION%20Pangea%20Whitepaper%202017.pdf).
- -  [High-Level Development Roadmap and Task List](https://trello.com/b/rb43zuUn/bitnation-dev).
+ -  [Pangea Whitepaper](https://github.com/Bit-Nation/Pangea-Docs/blob/master/BITNATION%20Pangea%20Whitepaper%202017.pdf).
+ -  [High-Level Development Roadmap](https://github.com/Bit-Nation/Pangea-Docs/blob/master/BitnationRoadmapPresentationDeck.pdf).
  -  Regular [Development Updates](https://steemit.com/@bitnation) are published on Steemit.
 
 ### Key-Repositories
@@ -175,12 +174,16 @@ We are pinning relevant repositories on our [profile](https://github.com/Bit-Nat
 
 ### API and Documentation
 
+Look at each key repository for individual development guidelines. 
+
+Here are guidelines for 3rd Party Developers: 
+
  -  [Panthalassa REST JSON API](https://github.com/Bit-Nation/BITNATION-Panthalassa/blob/master/api/api.go).
  -  [Panthalassa Swagger Documentation](https://github.com/Bit-Nation/BITNATION-Panthalassa/blob/master/api/panthalassa.yaml).
 
 ### UI/UX Resources
 
- -  UI/UX matters are discussed on Slack and uploaded to Trello.
+ -  UI/UX matters are discussed on the Bitnation Core Slack.
  -  Please have a look at our [branding guidelines repo](https://github.com/Bit-Nation/Bitnation-Branding-Guidelines) where you will find resources like branding and UI source files.
  -  Our [Logo](https://github.com/Bit-Nation/Bitnation-Branding-Guidelines/tree/master/Logo%20And%20Branding%20Files) source files 
  -  Our [Font](https://github.com/Bit-Nation/Bitnation-Branding-Guidelines/blob/master/Logo%20And%20Branding%20Files/Font-Guide.md) Guidelines
