@@ -140,7 +140,7 @@ Good documentation is key for an Open Source Software movement.
 There are many ways to help grow the movement through outreach and communication. Here's a list of a few activites that are really impactful.
  -  Organize Online Google Hangouts and Local Meetups.
  -  Produce content, like YouTube videos, software demo videos, graphic materials, blog post etc.
- -  Help new commers on Telegram to understand BITNATION and find their way around the app and our resources (like this one here).
+ -  Help newcomers on Telegram to understand BITNATION and find their way around the app and our resources (like this one here).
  -  Help people outside of our community to understand more about BITNATION, the Pangea software, cryptocurrencies, decentralized technologies, the importance of privacy and security and everything else beautiful in the world :smile:.
 
 ### Community Code of Conduct
