@@ -57,7 +57,7 @@ If you want to familiarise yourself with Bitnation, here are some key documents 
  - [Vietnamese](https://github.com/Bit-Nation/Pangea-Docs/tree/master/Vietnamese%20Translations)
  - [Arabic](https://github.com/Bit-Nation/Pangea-Docs/blob/master/Arabic%20Translations/BITNATION%20Pangea%20Whitepaper%202017%20-%20AR.pdf)
  
- If you want to contribute with additional translations, please contract @erik93 on the Slack channel.
+ If you want to contribute with additional translations, please contract @erikV_93 on Telegram.
 
 ---
 
@@ -67,19 +67,22 @@ If you want to contribute to the growth of the Bitnation community and our missi
 
 The best place to get to know the community is to join our [Telegram](https://t.me/PangeaBitnation) channel and start contributing. It's helpful to write a short introduction about yourself and what you're interested in doing. 
 
-Our Slack channel is still used, but we can't accept anymore people into it, due to the Slack restrictions. Keep in mind that the Slack chat is *not* encrypted, hence don't share anything you think could compromise your security, and use a pseudonym if you want to remain anoymous. 
+Our Slack channel is still used, but we can't accept anymore people into it, due to the Slack restrictions. Keep in mind that the Slack chat is *not* encrypted, hence don't share anything you think could compromise your security, and use a pseudonym if you want to remain anoymous. We have an additional Slack channel used for internal purposes, which you can ask to be invited to if you're a DApp developer or community builder actively contributing to Bitnation.
 
 The Slack and Telegram communities will be moved to Pangea in 2018.
 
-### Pangea Arbitration Token (XPAT) Wallets and Exchanges list
-
-More wallets and exchanges are added every week.
+### Pangea Arbitration Token (XPAT) Wallets
 
 * [BITNATION Android](https://play.google.com/store/apps/details?id=co.bitnation)
 * [BITNATION iOS](http://ios.bitnation.co/)
+* [Citowise](https://citowise.com/)
+
+### Pangea Arbitration Token (XPAT) Exchanges
+
+More exchanges are added every week.
+
 * [LAToken](https://wallet.latoken.com/market/Crypto/ETH/XPAT-ETH?utm_source=art&utm_medium=ico_ptr&utm_campaign=bitnation)
 * [Bancor](https://www.bancor.network/communities/5b05667a794f5d00014c2f5b/about)
-* [Citowise](https://citowise.com/)
 * [Chainrift](https://www.chainrift.com/)
 * [Etherdelta](https://etherdelta.com/)
 * [ForkDelta](https://forkdelta.github.io/)
@@ -92,6 +95,7 @@ More wallets and exchanges are added every week.
 * [CoinGecko](https://www.coingecko.com/en/coins/pangea-arbitration-token)
 * [CryptoCompare](https://www.cryptocompare.com/coins/xpat/overview)
 * [CoinWatch](https://www.livecoinwatch.com/price/Bitnation-XPAT)
+* [CoinLiker Predictions](http://www.coinliker.com/forecast/bitnation-0soK-predictions)
 
 ### Join the Ambassador and Embassy Networks
 
@@ -104,7 +108,7 @@ Embassies and Consulates are where share their space, whether it’s an office, 
  -  Embassy  A place where you can both live, and work (and naturally, meet).
  -  Consulate A place where you can work – like a shared office space or cafe, for instance – or maybe organise a meetup or a hangout.
 
-Bitnation has over 100 embassies, consulates worldwide. You can find out more about the [Ambassador Network](https://bitnation.co/ambassador-network/) or [Register as an Embassy](https://bitnation.co/embassy-consulate-directory/) on our website. **All these functions will soon be moved from the website to the Pangea software.**
+Bitnation has over 100 embassies, consulates worldwide. You can find out more about the [Ambassador Network](https://tse.bitnation.co/ambassador-registration/). **All these functions will soon be moved from the website to the Pangea software.**
 
 
 ### Start Your Own Nation
@@ -117,15 +121,15 @@ The Pangea software is setup for you to create your own Decentralized Borderless
 
 ### Submit a Local or Global Governance Project Idea
 
-You can [submit an idea](https://bitnation.consider.it/?tab=Show%20all) for a local or global governance project on our website, and vote and discuss pros and cons of others people's proposal. Keep in mind that you're likely to get more feedback if your proposal have clear and specific goals, timelines, expected outcomes and measurable deliverables.
+You can [submit an idea](https://bitnation.consider.it/?tab=Show%20all) for a local or global governance project on our website, and vote and discuss pros and cons of others people's proposal. Keep in mind that you're likely to get more feedback if your proposal has clear and specific goals, timelines, expected outcomes and measurable deliverables.
 
-For now the Project page is mostly for discussing ideas, but after the ICO we'll be able to fund some of them through Smart Contracts. 
+Some of the proposals might be funded by Bitnation as DApps or Incubated Nation ideas.
 
 ### Help with Documentation, Translation and Educational Resources 
 
 Good documentation is key for an Open Source Software movement. 
  -  Help documenting best practices, key events, processes etc.
- -  Translate materials like Whitepapers, community updates, articles, videos. We're setting up [this resource](https://crowdin.com/project/bitnation-documentation) to help collaborate on translations.
+ -  Translate materials like Whitepapers, community updates, articles, videos. 
  -  Create manuals, videos and blog posts to help explain how to be part of the community and how to use the software. 
 
 ### Help Grow our Community through Outreach and Engagement
@@ -133,7 +137,7 @@ Good documentation is key for an Open Source Software movement.
 There are many ways to help grow the movement through outreach and communication. Here's a list of a few activites that are really impactful.
  -  Organize Online Google Hangouts and Local Meetups.
  -  Produce content, like YouTube videos, software demo videos, graphic materials, blog post etc.
- -  Help new commers on Slack to understand BITNATION and find their way around Slack channels and other resources (like this one here).
+ -  Help new commers on Telegram to understand BITNATION and find their way around the app and our resources (like this one here).
  -  Help people outside of our community to understand more about BITNATION, the Pangea software, cryptocurrencies, decentralized technologies, the importance of privacy and security and everything else beautiful in the world :smile:.
 
 ### Community Code of Conduct
