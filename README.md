@@ -182,7 +182,7 @@ Look at each key repository for individual development guidelines, here are the 
  -  [Pangea developer repository](https://github.com/Bit-Nation/pangea-developer-documentation).
  -  [Mkdocs 3rd Party DApp developer documentation](https://pangea-development-documentation.readthedocs.io/en/latest/rough_doc/).
  -  [Pangea SDKs](https://github.com/Bit-Nation/pangea-sdk)
- -  [Pangea DApp template)(https://github.com/Bit-Nation/dapp-template).
+ -  [Pangea DApp template](https://github.com/Bit-Nation/dapp-template).
  -  [Pangea tools](https://github.com/Bit-Nation/pangea-tools)
 
 ### UI/UX Resources
