@@ -196,13 +196,10 @@ Here are guidelines for 3rd Party Developers:
  - [Pangea Arbitration Token](https://github.com/Bit-Nation/pat-token-contract) (PAT) ERC20 Standard
  - [Token Sale Event](https://github.com/Bit-Nation/ico-auction-contracts) (TSE). Phase III code comming soon.
  - [Lucy Bot](https://github.com/Bit-Nation/Lucy-draft) Governing token distribution and reputation.
- - [Pangea Map](https://github.com/Bit-Nation/BITNATION-Map) (of Citizens, Embassies, Consulates, etc)
- - [Pangea Registry](https://github.com/Bit-Nation/BITNATION-Registry) (of Holons, Nations, Embassies, etc)
- - [Pangea DBVN Entity Framework](https://github.com/Bit-Nation/nation-framework)
  
  ### Release Model
 
- -  Following the [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)) methodology we will be using sprint releases whenever possible.
+ -  We're using a light agile/ scrum methodology, releasing straight to the mainnet and to the Android and iOS appstores every 3 weeks. 
  -  Before releasing we are making sure all unit tests are passing.
 
 ### Software Testing, Bug Bounties, and Bug Reports
