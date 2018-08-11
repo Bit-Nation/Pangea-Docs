@@ -177,12 +177,13 @@ We are pinning relevant repositories on our [profile](https://github.com/Bit-Nat
 
 ### API and Documentation
 
-Look at each key repository for individual development guidelines. 
+Look at each key repository for individual development guidelines, here are the generic ones:
 
-Here are guidelines for 3rd Party Developers: 
-
- -  [Panthalassa REST JSON API](https://github.com/Bit-Nation/BITNATION-Panthalassa/blob/master/api/api.go).
- -  [Panthalassa Swagger Documentation](https://github.com/Bit-Nation/BITNATION-Panthalassa/blob/master/api/panthalassa.yaml).
+ -  [Pangea developer repository](https://github.com/Bit-Nation/pangea-developer-documentation).
+ -  [Mkdocs 3rd Party DApp developer documentation](https://pangea-development-documentation.readthedocs.io/en/latest/rough_doc/).
+ -  [Pangea SDKs](https://github.com/Bit-Nation/pangea-sdk)
+ -  [Pangea DApp template)(https://github.com/Bit-Nation/dapp-template).
+ -  [Pangea tools](https://github.com/Bit-Nation/pangea-tools)
 
 ### UI/UX Resources
 
