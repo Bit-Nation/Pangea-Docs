@@ -220,6 +220,22 @@ Bug bounties will be announced shortly.
  -  Split your different changes in a clear way via commits, it will make the reviewer's task easier.
  -  Only one major change should be submitted per pull requests, help us review your code faster!
  -  Last but not least: be respectfull, no abuses will be ever tolerated and could result to the close of your issue/pull request without further notice.
+ 
+ ### Core Code Contributors
+
+ -  @florianlenz
+ -  @albertoesterrona
+ -  @william2958
+ -  @seland
+ -  @xsttx
+ -  @camilolunacom
+ -  @borjantrajanoski
+ -  @ccmawo
+ -  @mimetic
+ -  @kentdahlgren
+ -  @swmd
+ -  @hunght
+ -  @praametc
 
  ### Additional Learning Resources:
  
