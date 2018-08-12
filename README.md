@@ -82,7 +82,7 @@ The Slack and Telegram communities will be moved to Pangea in 2018.
 
 ### Pangea Arbitration Token (XPAT) Exchanges
 
-More exchanges are added every week.
+More exchanges are added every month.
 
 * [LAToken](https://wallet.latoken.com/market/Crypto/ETH/XPAT-ETH?utm_source=art&utm_medium=ico_ptr&utm_campaign=bitnation)
 * [Bancor](https://www.bancor.network/communities/5b05667a794f5d00014c2f5b/about)
