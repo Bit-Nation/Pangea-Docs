@@ -228,19 +228,19 @@ Follow the instructions in [this](https://github.com/Bit-Nation/Pangea-wallet-to
  
  ### Core Code Contributors
 
- -  @florianlenz
- -  @albertoesterrona
- -  @william2958
- -  @seland
- -  @xsttx
- -  @camilolunacom
- -  @borjantrajanoski
- -  @ccmawo
- -  @mimetic
- -  @kentdahlgren
- -  @swmd
- -  @hunght
- -  @prameetc
+ -  [@florianlenz](https://github.com/florianlenz)
+ -  [@albertoestarrona](https://github.com/albertoestarrona)
+ -  [@william2958](https://github.com/william2958)
+ -  [@seland](https://github.com/seland)
+ -  [@xsttx](https://github.com/xsttx)
+ -  [@camilolunacom]
+ -  [@borjantrajanoski]
+ -  [@ccmawo]
+ -  [@mimetic](https://github.com/mimetic)
+ -  [@kentdahlgren](https://github.com/kentdahlgren)
+ -  [@swmd](https://github.com/swmd)
+ -  [@hunght](https://github.com/hunght)
+ -  [@prameetc](https://github.com/prameetc)
 
  ### Additional Learning Resources:
  
