@@ -86,13 +86,13 @@ More exchanges are added every month.
 
 * [LAToken](https://wallet.latoken.com/market/Crypto/ETH/XPAT-ETH?utm_source=art&utm_medium=ico_ptr&utm_campaign=bitnation)
 * [Bancor](https://www.bancor.network/communities/5b05667a794f5d00014c2f5b/about)
+* [TokenJar](https://tokenjar.io/)
 * [Chainrift](https://www.chainrift.com/)
 * [Etherdelta](https://etherdelta.com/)
 * [ForkDelta](https://forkdelta.github.io/)
-* [TokenJar](https://tokenjar.io/)
 * [Komodo BarterDex](https://komodoplatform.com/decentralized-exchange/)
 
-### Pangea Arbitration Token (XPAT) on listing websites
+### Pangea Arbitration Token (XPAT) on market analysis websites:
 
 * [CoinMarketCap](https://coinmarketcap.com/currencies/bitnation/)
 * [CoinGecko](https://www.coingecko.com/en/coins/pangea-arbitration-token)
