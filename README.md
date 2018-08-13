@@ -236,7 +236,6 @@ Bug bounties will be announced shortly.
  -  @kentdahlgren
  -  @swmd
  -  @hunght
- -  @praametc
 
  ### Additional Learning Resources:
  
