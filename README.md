@@ -241,6 +241,7 @@ Follow the instructions in [this](https://github.com/Bit-Nation/Pangea-wallet-to
  -  [swmd](https://github.com/swmd)
  -  [hunght](https://github.com/hunght)
  -  [prameetc](https://github.com/prameetc)
+ -  [I-Voyager](https://github.com/I-Voyager)
 
  ### Additional Learning Resources:
  
