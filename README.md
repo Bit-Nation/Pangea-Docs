@@ -157,7 +157,7 @@ The generic [Citizen Code of Conduct](http://citizencodeofconduct.org/) is [appl
 
 ### Getting Started
 
-The best way to get involved in the development process is through joining our Slack channel and ask for the releveant channels on there, after reading the following documentation. You can get an invitation to Slack through speaking with the admins on our Telegram chat. 
+The best way to get involved in the development process is through joining [Gitter](https://gitter.im/pangea-dev/Lobby) after reading the following documentation. You can also get an invitation to the core development team on Slack through speaking with the admins on our Telegram or Gitter chat. 
 
 ### Languages and Frameworks
 
