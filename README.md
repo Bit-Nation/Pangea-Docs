@@ -185,7 +185,7 @@ Look at each key repository for individual development guidelines, here are the 
  -  [Pangea SDKs](https://github.com/Bit-Nation/pangea-sdk) our software development toolkit.
  -  [Pangea DApp template](https://github.com/Bit-Nation/dapp-template).
  -  [Pangea tools](https://github.com/Bit-Nation/pangea-tools).
- -  [Pangea-Cli](https://github.com/Bit-Nation/pangea-cli) command line interface utils
+ -  [Pangea-Cli](https://github.com/Bit-Nation/pangea-cli) command line interface utils.
 
 ### UI/UX Resources
 
