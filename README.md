@@ -176,15 +176,16 @@ The best way to get involved in the development process is through joining [Gitt
 
 We are pinning relevant repositories on our [profile](https://github.com/Bit-Nation).
 
-### API and Documentation
+### API, Development Tools and Documentation
 
 Look at each key repository for individual development guidelines, here are the generic ones:
 
  -  [Pangea developer repository](https://github.com/Bit-Nation/pangea-developer-documentation).
  -  [Mkdocs 3rd Party DApp developer documentation](https://pangea-development-documentation.readthedocs.io/en/latest/rough_doc/).
- -  [Pangea SDKs](https://github.com/Bit-Nation/pangea-sdk)
+ -  [Pangea SDKs](https://github.com/Bit-Nation/pangea-sdk) our software development toolkit.
  -  [Pangea DApp template](https://github.com/Bit-Nation/dapp-template).
- -  [Pangea tools](https://github.com/Bit-Nation/pangea-tools)
+ -  [Pangea tools](https://github.com/Bit-Nation/pangea-tools).
+ -  [Pangea-Cli](Pangea https://github.com/Bit-Nation/pangea-cli) command line interface utils
 
 ### UI/UX Resources
 
