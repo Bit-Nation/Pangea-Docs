@@ -160,6 +160,8 @@ The generic [Citizen Code of Conduct](http://citizencodeofconduct.org/) is [appl
 
 The best way to get involved in the development process is through joining [Gitter](https://gitter.im/pangea-dev/Lobby) after reading the following documentation. You can also get an invitation to the core development team on Slack through speaking with the admins on our Telegram or Gitter chat. 
 
+If your aim is to develop a custom governance DApp or Bot on Pangea, please start with reading this [DApp Engine](https://github.com/Bit-Nation/pangea-developer-documentation/blob/master/docs/_completed_docs_v1.md) documentation.
+
 ### Languages and Frameworks
 
  -  Panthalassa, our mesh network backend written in Go containing the wallet and other utils [here](https://github.com/Bit-Nation/panthalassa).
