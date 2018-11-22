@@ -73,7 +73,7 @@ The best place to get to know the community is to join our [Telegram](https://t.
 
 Our Slack channel is still used, but we can't accept anymore people into it, due to the Slack restrictions. Keep in mind that the Slack chat is *not* encrypted, hence don't share anything you think could compromise your security, and use a pseudonym if you want to remain anoymous. We have an additional Slack channel used for internal purposes, which you can ask to be invited to if you're a DApp developer or community builder actively contributing to Bitnation.
 
-The Slack and Telegram communities will be moved to Pangea in 2018.
+The Slack and Telegram communities will be moved to Pangea in 2018/2019.
 
 ### Pangea Arbitration Token (XPAT) Wallets
 
@@ -92,6 +92,7 @@ More exchanges are added every month.
 * [Etherdelta](https://etherdelta.com/)
 * [ForkDelta](https://forkdelta.github.io/)
 * [Komodo BarterDex](https://komodoplatform.com/decentralized-exchange/)
+* [WeiDEX](https://weidex.market)
 
 ### Pangea Arbitration Token (XPAT) on market analysis websites:
 
@@ -241,7 +242,6 @@ Follow the instructions in [this](https://github.com/Bit-Nation/Pangea-wallet-to
  -  [borjantrajanoski](https://github.com/borjantrajanoski)
  -  [ccmawo](https://github.com/ccmawo)
  -  [mimetic](https://github.com/mimetic)
- -  [kentdahlgren](https://github.com/kentdahlgren)
  -  [swmd](https://github.com/swmd)
  -  [hunght](https://github.com/hunght)
  -  [prameetc](https://github.com/prameetc)
