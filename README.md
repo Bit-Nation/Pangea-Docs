@@ -101,6 +101,7 @@ More exchanges are added every month.
 * [CryptoCompare](https://www.cryptocompare.com/coins/xpat/overview)
 * [CoinWatch](https://www.livecoinwatch.com/price/Bitnation-XPAT)
 * [CoinLiker Predictions](http://www.coinliker.com/forecast/bitnation-0soK-predictions)
+* [Blockfolio](https://blockfolio.com/)
 
 ### Join the Ambassador and Embassy Networks
 
