@@ -160,6 +160,8 @@ The generic [Citizen Code of Conduct](http://citizencodeofconduct.org/) is [appl
 
 ### Getting Started
 
+We use PivotalTracker for project management. It is essentially a Scrum board similar to Trello. It allows us to have better transparency as a team regarding what the status of our work is, and what our near-term roadmap is. It's a new tool for most of us, so we're still getting the hang of best practices. As of 12/7/2018, our [primary board](https://www.pivotaltracker.com/projects/2204148) is open to the public, in the interest of transparency and collaboration.
+
 The best way to get involved in the development process is through joining [Gitter](https://gitter.im/pangea-dev/Lobby) after reading the following documentation. You can also get an invitation to the core development team on Slack through speaking with the admins on our Telegram or Gitter chat. 
 
 If your aim is to develop a custom governance DApp or Bot on Pangea, please start with reading this [DApp Engine](https://github.com/Bit-Nation/pangea-developer-documentation/blob/master/docs/_completed_docs_v1.md) documentation.
