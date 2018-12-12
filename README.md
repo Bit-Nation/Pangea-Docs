@@ -182,6 +182,10 @@ If your aim is to develop a custom governance DApp or Bot on Pangea, please star
 
 We are pinning relevant repositories on our [profile](https://github.com/Bit-Nation).
 
+- [Pangea Android and iOS repository](https://github.com/Bit-Nation/BITNATION-Pangea-mobile)
+- [Pangea backend repository](https://github.com/Bit-Nation/panthalassa)
+- [Pangea desktop repository](https://github.com/Bit-Nation/BITNATION-Pangea-desktop)
+
 ### API, Development Tools and Documentation
 
 Look at each key repository for individual development guidelines, here are the generic ones:
