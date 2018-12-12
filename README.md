@@ -211,7 +211,7 @@ Look at each key repository for individual development guidelines, here are the 
  
  ### Release Model
 
- -  We're using a light agile/ scrum methodology, releasing straight to the mainnet and to the Android and iOS appstores every 3 weeks. 
+ -  We're using a Continues Delivery (CD) release model using [Bitrise](https://www.bitrise.io/). 
  -  Before releasing we are making sure all unit tests are passing.
 
 ### Software Testing, Bug Bounties, and Bug Reports
