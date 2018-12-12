@@ -208,7 +208,6 @@ Look at each key repository for individual development guidelines, here are the 
  
  - [Pangea Arbitration Token](https://github.com/Bit-Nation/pat-token-contract) (PAT) ERC20 Standard
  - [Token Sale Event](https://github.com/Bit-Nation/ico-auction-contracts) (TSE). Phase III code comming soon.
- - [Lucy Bot](https://github.com/Bit-Nation/Lucy-draft) Governing token distribution and reputation.
  
  ### Release Model
 
