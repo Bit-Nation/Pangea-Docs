@@ -9,7 +9,7 @@ To get to know us, the best place to start is through:
  -  Join the developer community on [Gitter](https://gitter.im/pangea-dev/Lobby).
  -  Contribute to the code on [GitHub](https://github.com/Bit-Nation).
  
-Visit the [Bitnation website](https://bitnation.co/) (open until September 5 2018 for the Citizen Airdrop), and the [Pangea website](https://tse.bitnation.co/index.html).
+Visit the official [Bitnation website](https://bitnation.co/) to stay updated on our latest developments.
 
 If you want to familiarise yourself with Bitnation, here are some key documents to read:
 
