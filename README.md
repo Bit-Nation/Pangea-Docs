@@ -227,7 +227,11 @@ Bug bounties will be announced shortly.
 
 ### Add your own ERC20 token to the Bitnation Jurisdiction wallet
 
-Follow the instructions in [this](https://github.com/Bit-Nation/Pangea-wallet-tokenbase) repository. 
+Follow the instructions in [this](https://github.com/Bit-Nation/Pangea-wallet-tokenbase) repository.
+
+### Add your own  DApp/ Contract/ Service/ Product to the Bitnation Jurisdiction GOVMARKET
+
+Follow the instructions in [this](https://github.com/Bit-Nation/GOVMARKET) repository.
 
 ### Code Commit Guidelines and Code of Conduct
 
