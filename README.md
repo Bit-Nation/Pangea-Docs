@@ -93,6 +93,7 @@ More exchanges are added every month.
 * [ForkDelta](https://forkdelta.github.io/)
 * [Komodo BarterDex](https://komodoplatform.com/decentralized-exchange/)
 * [WeiDEX](https://weidex.market)
+* [Worldcore](https://worldcore.trade/exchange/ltc_btc)
 
 ### Pangea Arbitration Token (XPAT) on market analysis websites:
 
