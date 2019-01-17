@@ -5,6 +5,7 @@
 To get to know us, the best place to start is through:
 
  -  Install the Pangea Jurisdiction on [Android](https://play.google.com/store/apps/details?id=co.bitnation&hl=en) (search for Bitnation in the Google Play store) and via [TestFlight](https://developer.apple.com/testflight/) on iOS. Download the TestFlight app from the iOS app store, then go to the [Bitnation website](https://tse.bitnation.co/#install) and click on the iOS button to get an invitation code via email. Make sure to use the email associated with your Apple account.
+ -  Join the dev- and non-developer community on [Discord](https://discordapp.com/invite/whzS4Fr). If the first link doesn't work, use [this link](https://lnnk.in/@bitnation-discord) instead. 
  -  Join the non-developer community on [Telegram](https://t.me/PangeaBitnation).
  -  Join the developer community on [Gitter](https://gitter.im/pangea-dev/Lobby).
  -  Contribute to the code on [GitHub](https://github.com/Bit-Nation).
@@ -69,11 +70,9 @@ If you want to familiarise yourself with Bitnation, here are some key documents 
 
 If you want to contribute to the growth of the Bitnation community and our mission - this is the place for you.
 
-The best place to get to know the community is to join our [Telegram](https://t.me/PangeaBitnation) channel and start contributing. It's helpful to write a short introduction about yourself and what you're interested in doing. 
+The best place to get to know the community is to join our [Discord channel](https://discordapp.com/invite/whzS4Fr) or our [Telegram channel](https://t.me/PangeaBitnation) and start contributing. It's helpful to write a short introduction about yourself and what you're interested in doing. Please keep in mind that these are public spaces which anyone can join, which means anyone can read your conversation, hence do not say anything that might put you at risk legally or security wise in any of the public channels. Our Slack channel is still used, but we can't accept anymore people into it, due to the Slack restrictions. 
 
-Our Slack channel is still used, but we can't accept anymore people into it, due to the Slack restrictions. Keep in mind that the Slack chat is *not* encrypted, hence don't share anything you think could compromise your security, and use a pseudonym if you want to remain anoymous. We have an additional Slack channel used for internal purposes, which you can ask to be invited to if you're a DApp developer or community builder actively contributing to Bitnation.
-
-The Slack and Telegram communities will be moved to Pangea in 2018/2019.
+The Slack, Discord and Telegram communities will be moved to Pangea in 2019, when the desktop client launches.
 
 ### Pangea Arbitration Token (XPAT) Wallets
 
