@@ -93,6 +93,7 @@ More exchanges are added every month.
 * [Komodo BarterDex](https://komodoplatform.com/decentralized-exchange/)
 * [WeiDEX](https://weidex.market)
 * [Worldcore](https://worldcore.trade/exchange/xpat_btc)
+* [Bitcratic](https://www.bitcratic.com/#!/trade/XPAT-ETH)
 
 ### Pangea Arbitration Token (XPAT) on market analysis websites:
 
