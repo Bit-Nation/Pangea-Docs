@@ -104,6 +104,10 @@ More exchanges are added every month.
 * [CoinLiker Predictions](http://www.coinliker.com/forecast/bitnation-0soK-predictions)
 * [Blockfolio](https://blockfolio.com/)
 
+### XBNX to Pangea Arbitration Token (XPAT) swaps:
+
+* [Official swap page](https://tse.bitnation.co/xbnx-swap/)
+
 ### Join the Ambassador and Embassy Networks
 
 The Ambassador and Embassy networks were conceived as analogue versions of Pangea. A real world network of people and places where digital nomads can get advice, peer-to-peer assistance, meet-up and hang out. There are three types of Bitnation representatives:
