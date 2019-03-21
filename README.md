@@ -190,7 +190,7 @@ We are pinning relevant repositories on our [profile](https://github.com/Bit-Nat
 
 - [Pangea Android and iOS repository](https://github.com/Bit-Nation/BITNATION-Pangea-mobile)
 - [Pangea backend repository](https://github.com/Bit-Nation/panthalassa)
-- [Pangea desktop repository](https://github.com/Bit-Nation/BITNATION-Pangea-desktop)
+- [Pangea desktop repository](https://github.com/Bit-Nation/BITNATION-Pangea-Desktop-Unity)
 
 ### API, Development Tools and Documentation
 
@@ -249,6 +249,8 @@ Follow the instructions in [this](https://github.com/Bit-Nation/GOVMARKET) repos
  
  ### Core Code Contributors
 
+ -  [Thiago Souza](https://github.com/ThiagoVSouza)
+ -  [Mark Nuzz](https://github.com/Mnuzz)
  -  [florianlenz](https://github.com/florianlenz)
  -  [albertoestarrona](https://github.com/albertoestarrona)
  -  [william2958](https://github.com/william2958)
