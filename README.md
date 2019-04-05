@@ -179,7 +179,6 @@ If your aim is to develop a custom governance DApp or Bot on Pangea, please star
 ### Whitepaper, Roadmap and Development Updates
 
  -  [Pangea Whitepaper](https://github.com/Bit-Nation/Pangea-Docs/blob/master/BITNATION%20Pangea%20Whitepaper%202017.pdf).
- -  [High-Level Development Roadmap](https://github.com/Bit-Nation/Pangea-Docs/blob/master/BitnationRoadmapPresentationDeck.pdf).
  -  Regular [Development Updates](https://steemit.com/@bitnation) are published on Steemit.
  -  [Research Areas, Files, Tests and Experiments](https://github.com/Bit-Nation/Bitnation-Future-Governance-Expedition)
 
