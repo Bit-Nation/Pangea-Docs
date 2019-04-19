@@ -95,6 +95,7 @@ More exchanges are added every month.
 * [Bitcratic](https://www.bitcratic.com/#!/trade/XPAT-ETH)
 * [Tokenom](https://www.tokenmom.com/exchange/XPAT-USDC)
 * [Paxful](https://paxful.com/offer/MZA1R9b54mK)
+* [CryptleDEX](https://www.cryptlodex.com/)
 
 ### Pangea Arbitration Token (XPAT) on market analysis websites:
 
