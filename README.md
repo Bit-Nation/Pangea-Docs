@@ -14,6 +14,16 @@ Visit the official [Bitnation website](https://bitnation.co/) to stay updated on
 
 If you want to familiarise yourself with Bitnation, here are some key documents to read:
 
+**Support our work** with **ETH** and **XPAT**:
+
+The Bitnation Pangea Jurisdiction is a **free** and **open source project**
+
+ETH address: 0xCDE042543307966bc16Eff3cDca4d32B23408C4c
+
+XPAT address: 0xCDE042543307966bc16Eff3cDca4d32B23408C4c
+
+The funds will be transferred to a DBVN structure where you can vote on development prorities proposals, after the release v. 1.1 of the Desktop client spring 2019. Until then you can add your proposal suggestions on [consider.it](https://tse.bitnation.co/)
+
 ---
 
 ## BITNATION Overview and Philosophy:
