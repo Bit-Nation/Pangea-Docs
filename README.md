@@ -107,6 +107,7 @@ More exchanges are added every month.
 * [Tokenom](https://www.tokenmom.com/exchange/XPAT-USDC)
 * [Paxful](https://paxful.com/offer/MZA1R9b54mK)
 * [CryptloDEX](https://www.cryptlodex.com/)
+* [SatoExchange](https://www.satoexchange.com/market/XPAT/DOGE/)
 
 ### Pangea Arbitration Token (XPAT) on market analysis websites:
 
