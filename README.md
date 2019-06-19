@@ -108,6 +108,7 @@ More exchanges are added every month.
 * [Paxful](https://paxful.com/offer/MZA1R9b54mK)
 * [CryptloDEX](https://www.cryptlodex.com/)
 * [SatoExchange](https://www.satoexchange.com/market/XPAT/DOGE/)
+* [BOAExchange](https://boaexchange.com/market/XPAT_ETH?fbclid=IwAR2-M72OBeihthjftSl1ZqaDHIidNY9GJwdxSrjtxfbu57p2Ne7iY3ES_c0)
 
 ### Pangea Arbitration Token (XPAT) on market analysis websites:
 
