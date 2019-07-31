@@ -118,6 +118,7 @@ More exchanges are added every month.
 * [CoinWatch](https://www.livecoinwatch.com/price/Bitnation-XPAT)
 * [CoinLiker Predictions](http://www.coinliker.com/forecast/bitnation-0soK-predictions)
 * [Blockfolio](https://blockfolio.com/)
+* [CoinMarketDaddy](https://coinmarketdaddy.com/currencies/bitnation/)
 
 ### XBNX to Pangea Arbitration Token (XPAT) swaps:
 
