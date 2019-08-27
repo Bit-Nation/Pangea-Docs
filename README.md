@@ -8,6 +8,7 @@
 To get to know us, the best place to start is through:
 
  -  Install the Pangea Jurisdiction on [Android](https://play.google.com/store/apps/details?id=co.bitnation&hl=en) (search for Bitnation in the Google Play store) and via [TestFlight](https://developer.apple.com/testflight/) on iOS. Download the TestFlight app from the iOS app store, then go to the [Bitnation website](https://tse.bitnation.co/#install) and click on the iOS button to get an invitation code via email. Make sure to use the email associated with your Apple account.
+ -  Install the desktop client for Linux, Windows and Mac [here](http://bitnationapi.azurewebsites.net/downloads/). WARNING: it's solely intended for testing, not commercial usage at this stage.
  -  Join the dev- and non-developer community on [Discord](https://discordapp.com/invite/whzS4Fr). If the first link doesn't work, use [this link](https://lnnk.in/@bitnation-discord) instead. 
  -  Join the non-developer community on [Telegram](https://t.me/PangeaBitnation).
  -  Join the developer community on [Gitter](https://gitter.im/pangea-dev/Lobby).
@@ -205,7 +206,7 @@ We are pinning relevant repositories on our [profile](https://github.com/Bit-Nat
 
 - [Pangea Android and iOS repository](https://github.com/Bit-Nation/BITNATION-Pangea-mobile)
 - [Pangea backend repository](https://github.com/Bit-Nation/panthalassa)
-- [Pangea desktop repository](https://github.com/Bit-Nation/BITNATION-Pangea-Desktop-Unity)
+- [Pangea desktop repository](https://github.com/Bit-Nation/Desktop-client-new)
 
 ### API, Development Tools and Documentation
 
