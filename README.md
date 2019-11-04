@@ -123,7 +123,7 @@ More exchanges are added every month.
 
 ### XBNX to Pangea Arbitration Token (XPAT) swaps:
 
-* [Official swap page](https://tse.bitnation.co/xbnx-swap/)
+* [Official swap page](https://tse.bitnation.co/xbnx-swap/) The token swap has been executed but the swap request page will stay up until the end of 2019.
 
 ### Join the Ambassador and Embassy Networks
 
