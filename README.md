@@ -184,7 +184,7 @@ The generic [Citizen Code of Conduct](http://citizencodeofconduct.org/) is [appl
 
 We use PivotalTracker for project management. It is essentially a Scrum board similar to Trello. It allows us to have better transparency as a team regarding what the status of our work is, and what our near-term roadmap is. It's a new tool for most of us, so we're still getting the hang of best practices. As of 12/7/2018, our [primary board](https://www.pivotaltracker.com/projects/2204148) and our [architecture board](https://www.pivotaltracker.com/projects/2213396) is open to the public, in the interest of transparency and collaboration.
 
-The best way to get involved in the development process is through joining [Gitter](https://gitter.im/pangea-dev/Lobby) after reading the following documentation. You can also get an invitation to the core development team on Slack through speaking with the admins on our Telegram or Gitter chat. 
+The best way to get involved in the development process is through joining [Gitter](https://gitter.im/pangea-dev/Lobby) after reading the following documentation. You can also get an invitation to the core development team on Discord. 
 
 If your aim is to develop a custom governance DApp or Bot on Pangea, please start with reading this [DApp Engine](https://github.com/Bit-Nation/pangea-developer-documentation/blob/master/docs/_completed_docs_v1.md) documentation.
 
@@ -199,6 +199,7 @@ If your aim is to develop a custom governance DApp or Bot on Pangea, please star
  -  [Pangea Whitepaper](https://github.com/Bit-Nation/Pangea-Docs/blob/master/BITNATION%20Pangea%20Whitepaper%202017.pdf).
  -  Regular [Development Updates](https://steemit.com/@bitnation) are published on Steemit.
  -  [Research Areas, Files, Tests and Experiments](https://github.com/Bit-Nation/Bitnation-Future-Governance-Expedition)
+ -  High-level [Desktop Client Roadmap](https://docs.google.com/document/d/1cz7r5EkKpL2QHF5qT41PTJf6OlKNDM-NJWleC1-0y0A/edit?fbclid=IwAR1PfjVX7BDvVtE1OPVUbt7Eh9uTqlteeOaXaFZN6jDE4hSR21v4t5SxZnw)
 
 ### Key-Repositories
 
